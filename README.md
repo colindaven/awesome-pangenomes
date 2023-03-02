@@ -5,6 +5,7 @@
 
 * vg https://github.com/vgteam/vg Full featured construction, mapping and SNP calling toolkit based on multiple formats.
 * odgi https://github.com/pangenome/odgi Fast toolkit based on odgi format
+* gfatools https://github.com/lh3/gfatools Toolkit for GFA parsing and conversion
 
 # Pangenome construction
 
@@ -19,6 +20,8 @@
 
 * vg map https://github.com/vgteam/vg Original vg mapper
 * vg giraffe https://github.com/vgteam/vg Faster and more modern alternative to vg map
+* Hisat2 https://github.com/DaehwanKimLab/hisat2
+* 
 
 
 # Long read alignment to a pangenome graph
@@ -26,14 +29,25 @@
 * GraphAligner https://github.com/maickrau/GraphAligner Fast long read aligner
 * GraphChainer https://github.com/algbio/GraphChainer Built on codebase of GraphAligner
 
+# SNP callers and genotypers
+
+* vg call https://github.com/vgteam/vg
+
+
+# Structural Variation (SV) callers and genotypes
+
+* vg call https://github.com/vgteam/vg
+* GraphTyper https://github.com/DecodeGenetics/graphtyper 
 
 # Pangenome viewers
 
 * Panagram https://github.com/kjenike/panagram 
 * Bandage https://github.com/rrwick/Bandage Visualize GFA files
-* SeqTubemap https://github.com/vgteam/sequenceTubeMap Elegant path visualization for smaller regions of a pangenome
+* SeqTubemap https://github.com/vgteam/sequenceTubeMap Elegant path visualization for smaller regions of a pangenome from the vg team
+* VAG https://github.com/lipingfangs/VAG Visualization of short sequence alignments in a pangenome
 * vg 
 * odgi
+* Panache https://github.com/SouthGreenPlatform/panache View linearized pangenomes
 
 # Graph validation tools
 
