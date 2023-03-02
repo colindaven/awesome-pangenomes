@@ -21,7 +21,7 @@
 * vg map https://github.com/vgteam/vg Original vg mapper
 * vg giraffe https://github.com/vgteam/vg Faster and more modern alternative to vg map
 * Hisat2 https://github.com/DaehwanKimLab/hisat2
-* 
+
 
 
 # Long read alignment to a pangenome graph
@@ -32,6 +32,7 @@
 # SNP callers and genotypers
 
 * vg call https://github.com/vgteam/vg
+* Paragraph https://github.com/Illumina/paragraph
 
 
 # Structural Variation (SV) callers and genotypes
