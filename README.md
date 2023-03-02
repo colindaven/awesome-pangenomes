@@ -1,5 +1,5 @@
 # awesome-pangenomes
-## A list of software for pangenomics
+## A list of software capable of analyzing eukaryotic genomes for pangenomics 
 
 # Toolkits
 
@@ -30,6 +30,8 @@
 
 * Panagram https://github.com/kjenike/panagram
 * Bandage https://github.com/rrwick/Bandage Visualize GFA files
+* vg 
+* odgi
 
 # Graph validation tools
 
@@ -43,5 +45,9 @@
 * vg  https://github.com/vgteam/vg
 * odgi https://github.com/pangenome/odgi 
 * PanSN-spec https://github.com/pangenome/PanSN-spec A naming system for haplotypes in pangenomes
+
+
+
+# Contributions
 
 Contributions are welcome, please make PRs to main.
