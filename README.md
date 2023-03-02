@@ -8,9 +8,10 @@
 
 # Pangenome construction
 
-* Minigraph https://github.com/lh3/minigraph
+* Minigraph https://github.com/lh3/minigraph Fast method intended for 50+ bp SVs by Heng Li
 * Cactus/minigraph https://github.com/ComparativeGenomicsToolkit/cactus 
-* PGGB https://github.com/pangenome/pggb 
+* PGGB https://github.com/pangenome/pggb Pangenome Graph Builder, calculates SNPs as part of the pipeline.
+* Pantools v3+ https://git.wur.nl/bioinformatics/pantools Fully featured construction and 
 * PSVCP https://github.com/wjian8/psvcp_v1.01
 
 
@@ -28,8 +29,9 @@
 
 # Pangenome viewers
 
-* Panagram https://github.com/kjenike/panagram
+* Panagram https://github.com/kjenike/panagram 
 * Bandage https://github.com/rrwick/Bandage Visualize GFA files
+* SeqTubemap https://github.com/vgteam/sequenceTubeMap Elegant path visualization for smaller regions of a pangenome
 * vg 
 * odgi
 
@@ -41,7 +43,7 @@
 
 # File formats
 
-* GFA An interchange format read by both vg and odgi among others
+* GFA http://gfa-spec.github.io/GFA-spec/GFA1.html An interchange format read by both vg and odgi among others
 * vg  https://github.com/vgteam/vg
 * odgi https://github.com/pangenome/odgi 
 * PanSN-spec https://github.com/pangenome/PanSN-spec A naming system for haplotypes in pangenomes
