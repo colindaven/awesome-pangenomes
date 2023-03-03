@@ -49,6 +49,7 @@
 * vg 
 * odgi
 * Panache https://github.com/SouthGreenPlatform/panache View linearized pangenomes
+* Waragraph https://github.com/chfi/waragraph
 
 # Graph validation tools
 
