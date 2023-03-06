@@ -61,7 +61,7 @@
 # File formats
 
 * GFA http://gfa-spec.github.io/GFA-spec/GFA1.html An interchange format read by both vg and odgi among others
-* rGFA https://github.com/lh3/gfatools/blob/master/doc/rGFA.md A modified GFA format, rGFA contains a reference path in the graph.
+* rGFA https://github.com/lh3/gfatools/blob/master/doc/rGFA.md An extended GFA format, rGFA contains extra tags.
 * vg  https://github.com/vgteam/vg
 * odgi https://github.com/pangenome/odgi 
 * PanSN-spec https://github.com/pangenome/PanSN-spec A naming system for haplotypes in pangenomes
