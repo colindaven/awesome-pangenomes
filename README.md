@@ -36,7 +36,7 @@
 * Paragraph https://github.com/Illumina/paragraph
 
 
-# Structural Variation (SV) callers and genotypes
+# Structural Variation (SV) callers and genotypers
 
 * vg call https://github.com/vgteam/vg
 * GraphTyper https://github.com/DecodeGenetics/graphtyper 
