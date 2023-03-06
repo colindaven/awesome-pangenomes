@@ -27,6 +27,7 @@
 # Long read alignment to a pangenome graph
 
 * GraphAligner https://github.com/maickrau/GraphAligner Fast long read aligner
+* Minigraph https://github.com/lh3/minigraph Construct graphs or align long reads to graphs
 * GraphChainer https://github.com/algbio/GraphChainer Built on codebase of GraphAligner
 
 # SNP callers and genotypers
@@ -68,4 +69,4 @@
 
 # Contributions
 
-Contributions are welcome, please make PRs to main.
+Is something missing? Contributions are welcome, please make PRs to main.
