@@ -1,11 +1,14 @@
 # awesome-pangenomes
 ## A list of software capable of analyzing eukaryotic genomes for pangenomics 
 
+
 # Toolkits
 
 * vg https://github.com/vgteam/vg Full featured construction, mapping and SNP calling toolkit based on multiple formats.
 * odgi https://github.com/pangenome/odgi Fast toolkit based on odgi format
 * gfatools https://github.com/lh3/gfatools Toolkit for GFA parsing and conversion
+
+
 
 # Pangenome construction
 
@@ -30,16 +33,24 @@
 * Minigraph https://github.com/lh3/minigraph Construct graphs or align long reads to graphs
 * GraphChainer https://github.com/algbio/GraphChainer Built on codebase of GraphAligner
 
+
+
 # SNP callers and genotypers
 
 * vg call https://github.com/vgteam/vg
 * Paragraph https://github.com/Illumina/paragraph
+* Pangenie https://github.com/eblerjana/pangenie
+* vg surject to linear reference, then use linear caller like Freebayes, Deepvariant etc
+
 
 
 # Structural Variation (SV) callers and genotypers
 
 * vg call https://github.com/vgteam/vg
 * GraphTyper https://github.com/DecodeGenetics/graphtyper 
+* Pangenie https://github.com/eblerjana/pangenie
+
+
 
 # Pangenome viewers
 
@@ -51,6 +62,8 @@
 * odgi
 * Panache https://github.com/SouthGreenPlatform/panache View linearized pangenomes
 * Waragraph https://github.com/chfi/waragraph
+
+
 
 # Graph validation tools
 
