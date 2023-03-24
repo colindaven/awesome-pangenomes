@@ -17,6 +17,7 @@
 * PGGB https://github.com/pangenome/pggb Pangenome Graph Builder, calculates SNPs as part of the pipeline.
 * Pantools v3+ https://git.wur.nl/bioinformatics/pantools Fully featured construction and 
 * PSVCP https://github.com/wjian8/psvcp_v1.01
+* PHG Practical Haplotype Graph https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home
 
 
 # Short read alignment to a pangenome graph
@@ -52,22 +53,25 @@
 
 
 
-# Pangenome viewers
+# Pangenome viewers -interactive
 
 * Panagram https://github.com/kjenike/panagram 
 * Bandage https://github.com/rrwick/Bandage Visualize GFA files
 * SeqTubemap https://github.com/vgteam/sequenceTubeMap Elegant path visualization for smaller regions of a pangenome from the vg team
 * VAG https://github.com/lipingfangs/VAG Visualization of short sequence alignments in a pangenome
-* vg 
-* odgi
 * Panache https://github.com/SouthGreenPlatform/panache View linearized pangenomes
 * Waragraph https://github.com/chfi/waragraph
 
+# Pangenome viewers -static
+
+* vg - generates static images
+* odgi - generates static images
 
 
 # Graph validation tools
 
 * vg validate
+* odgi validate
 
 
 
