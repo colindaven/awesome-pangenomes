@@ -77,11 +77,13 @@
 
 # File formats
 
-* GFA http://gfa-spec.github.io/GFA-spec/GFA1.html An interchange format read by both vg and odgi among others
+* GFA http://gfa-spec.github.io/GFA-spec/GFA1.html An assembly interchange format read by both vg and odgi
 * rGFA https://github.com/lh3/gfatools/blob/master/doc/rGFA.md An extended GFA format, rGFA contains extra tags.
-* vg  https://github.com/vgteam/vg
-* odgi https://github.com/pangenome/odgi 
+* vg https://github.com/vgteam/vg Vg has it's own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam
+* odgi https://github.com/pangenome/odgi
 * PanSN-spec https://github.com/pangenome/PanSN-spec A naming system for haplotypes in pangenomes
+* GAF - Graph Alignment Format https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf. Created by minigraph, convertible by vg. Similar to PAF.
+* GAM - Graph Alignment/Map https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam. Created by vg giraffe. 
 
 
 
