@@ -61,6 +61,7 @@
 * VAG https://github.com/lipingfangs/VAG Visualization of short sequence alignments in a pangenome
 * Panache https://github.com/SouthGreenPlatform/panache View linearized pangenomes
 * Waragraph https://github.com/chfi/waragraph
+* PanGraphViewer https://github.com/TF-Chan-Lab/panGraphViewer
 
 # Pangenome viewers -static
 
