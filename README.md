@@ -87,6 +87,11 @@
 * GAM - Graph Alignment/Map https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam. Created by vg giraffe. 
 
 
+# kmer based approaches
+
+* PanKmer https://gitlab.com/salk-tm/pankmer
+
+
 
 # Contributions
 
