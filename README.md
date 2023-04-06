@@ -62,6 +62,7 @@
 * Panache https://github.com/SouthGreenPlatform/panache View linearized pangenomes
 * Waragraph https://github.com/chfi/waragraph
 * PanGraphViewer https://github.com/TF-Chan-Lab/panGraphViewer
+* Wally https://github.com/tobiasrausch/wally#subcommand-gfa-visualization-of-pan-genome-graphs-work-in-progress View GFA (Work in progress 2023)
 
 # Pangenome viewers -static
 
