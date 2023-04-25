@@ -7,6 +7,7 @@
 * vg https://github.com/vgteam/vg Full featured construction, mapping and SNP calling toolkit based on multiple formats.
 * odgi https://github.com/pangenome/odgi Fast toolkit based on odgi format
 * gfatools https://github.com/lh3/gfatools Toolkit for GFA parsing and conversion
+* gfakluge https://github.com/edawson/gfakluge Toolkit and c++ API for GFA manipulation
 
 
 
