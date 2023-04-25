@@ -16,7 +16,7 @@
 * Minigraph https://github.com/lh3/minigraph Fast method intended for 50+ bp SVs by Heng Li
 * Cactus/minigraph https://github.com/ComparativeGenomicsToolkit/cactus 
 * PGGB https://github.com/pangenome/pggb Pangenome Graph Builder, calculates SNPs as part of the pipeline.
-* Pantools v3+ https://git.wur.nl/bioinformatics/pantools Fully featured construction and 
+* Pantools v3+ https://git.wur.nl/bioinformatics/pantools Fully featured construction of pangenome graphs
 * PSVCP https://github.com/wjian8/psvcp_v1.01
 * PHG Practical Haplotype Graph https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home
 
