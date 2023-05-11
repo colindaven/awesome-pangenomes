@@ -89,6 +89,10 @@
 * GAM - Graph Alignment/Map https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam. Created by vg giraffe. 
 
 
+# Miscellaneous tools
+
+* gfainject https://github.com/chfi/gfainject Map short alignments in BAM format to a GFA (seems it is not a real aligner but a conversion tool). Output in GAF format.
+
 # kmer based approaches
 
 * PanKmer https://gitlab.com/salk-tm/pankmer
