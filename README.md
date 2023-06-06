@@ -23,16 +23,17 @@
 
 # Short read alignment to a pangenome graph
 
-* vg map https://github.com/vgteam/vg Original vg mapper
+* vg map https://github.com/vgteam/vg Original vg mapper (superseded by vg giraffe)
 * vg giraffe https://github.com/vgteam/vg Faster and more modern alternative to vg map
 * Hisat2 https://github.com/DaehwanKimLab/hisat2
+* Minigraph https://github.com/lh3/minigraph Construct graphs or align short or long reads to graphs
 
 
 
 # Long read alignment to a pangenome graph
 
 * GraphAligner https://github.com/maickrau/GraphAligner Fast long read aligner
-* Minigraph https://github.com/lh3/minigraph Construct graphs or align long reads to graphs
+* Minigraph https://github.com/lh3/minigraph Construct graphs or align short or long reads to graphs
 * GraphChainer https://github.com/algbio/GraphChainer Built on codebase of GraphAligner
 
 
