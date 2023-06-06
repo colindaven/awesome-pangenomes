@@ -35,6 +35,7 @@
 * GraphAligner https://github.com/maickrau/GraphAligner Fast long read aligner
 * Minigraph https://github.com/lh3/minigraph Construct graphs or align short or long reads to graphs
 * GraphChainer https://github.com/algbio/GraphChainer Built on codebase of GraphAligner
+* Spades Pathracer https://github.com/eodus/pathracer#sec4.3 Align long reads to genomic graphs
 
 
 
