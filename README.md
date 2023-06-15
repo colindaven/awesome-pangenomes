@@ -19,6 +19,7 @@
 * Pantools v3+ https://git.wur.nl/bioinformatics/pantools Fully featured construction of pangenome graphs
 * PSVCP https://github.com/wjian8/psvcp_v1.01
 * PHG Practical Haplotype Graph https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home
+* PATO https://github.com/irycisBioinfo/PATO R package for pangenome construction
 
 
 # Short read alignment to a pangenome graph
