@@ -96,11 +96,12 @@
 # Miscellaneous tools
 
 * gfainject https://github.com/chfi/gfainject Map short alignments in BAM format to a GFA (seems it is not a real aligner but a conversion tool). Output in GAF format.
+* GRAFIMO https://github.com/pinellolab/GRAFIMO GRAph-based Finding of Individual Motif Occurrences using vg
+
 
 # kmer based approaches
 
 * PanKmer https://gitlab.com/salk-tm/pankmer
-
 
 
 # Contributions
