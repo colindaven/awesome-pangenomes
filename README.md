@@ -8,6 +8,7 @@
 * odgi https://github.com/pangenome/odgi Fast toolkit based on odgi format
 * gfatools https://github.com/lh3/gfatools Toolkit for GFA parsing and conversion
 * gfakluge https://github.com/edawson/gfakluge Toolkit and c++ API for GFA manipulation
+* gaftools https://github.com/marschall-lab/gaftools Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
 
 
 
