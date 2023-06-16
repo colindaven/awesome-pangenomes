@@ -107,4 +107,4 @@
 
 # Contributions
 
-Is something missing? Contributions are welcome, please make PRs to main.
+Is something missing? Contributions are welcome, please make PRs to main or write an issue with a link.
