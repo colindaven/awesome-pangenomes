@@ -38,15 +38,17 @@
 * Minigraph https://github.com/lh3/minigraph Construct graphs or align short or long reads to graphs
 * GraphChainer https://github.com/algbio/GraphChainer Built on codebase of GraphAligner
 * Spades Pathracer https://github.com/eodus/pathracer#sec4.3 Align long reads to genomic graphs
+* Minichain https://github.com/at-cg/minichain Align long reads to pangenomes in GFA or rGFA format
+* PanAligner https://github.com/at-cg/PanAligner Align long reads to pangenomes
 
 
 
 # SNP callers and genotypers
 
-* vg call https://github.com/vgteam/vg
+* vg call https://github.com/vgteam/vg SNP caller for pangenomes, with gam or GAF output
 * Paragraph https://github.com/Illumina/paragraph
 * Pangenie https://github.com/eblerjana/pangenie
-* vg surject to linear reference, then use linear caller like Freebayes, Deepvariant etc
+* vg surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc
 
 
 
