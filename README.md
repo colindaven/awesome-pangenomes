@@ -21,6 +21,7 @@
 * PSVCP https://github.com/wjian8/psvcp_v1.01
 * PHG Practical Haplotype Graph https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home
 * PATO https://github.com/irycisBioinfo/PATO R package for pangenome construction
+* Chrom_mini_graph https://github.com/gaojunxuan/chrom_mini_graph Generate and map reads onto a coloured minimizer pangenome graph
 
 
 # Short read alignment to a pangenome graph
@@ -29,6 +30,7 @@
 * vg giraffe https://github.com/vgteam/vg Faster and more modern alternative to vg map
 * Hisat2 https://github.com/DaehwanKimLab/hisat2
 * Minigraph https://github.com/lh3/minigraph Construct graphs or align short or long reads to graphs
+* Chrom_mini_graph https://github.com/gaojunxuan/chrom_mini_graph Generate and map reads onto a coloured minimizer pangenome graph
 
 
 
@@ -71,6 +73,7 @@
 * PanGraphViewer https://github.com/TF-Chan-Lab/panGraphViewer
 * Wally https://github.com/tobiasrausch/wally#subcommand-gfa-visualization-of-pan-genome-graphs-work-in-progress View GFA (Work in progress 2023)
 * VRPG https://github.com/codeatcg/VRPG View rGFA or GFA, written in python and html
+* Pantograph https://help.pantograph.computomics.com/ is a commercial option
 
 # Pangenome viewers -static
 
