@@ -14,7 +14,7 @@
 
 # Pangenome construction
 
-* [Minigraph](https://github.com/lh3/minigraph) Fast method intended for 50+ bp SVs by Heng Li, produces rGFA format (not GFA or odgi)
+* [Minigraph](https://github.com/lh3/minigraph) Fast method originally intended for 50+ bp SVs by Heng Li, produces rGFA format (not GFA or odgi)
 * [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which aims to enable downstream compatibility. Produces GFA and odgi.
 * [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi.
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
@@ -91,9 +91,9 @@
 # File formats
 
 * [GFA](http://gfa-spec.github.io/GFA-spec/GFA1.html) An assembly interchange format read by both vg and odgi
-* [rGFA](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md) An extended GFA format, rGFA contains extra tags.
+* [rGFA](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md) An extended GFA format, rGFA contains extra tags and includes a reference sequence. See minigraph.
 * [vg](https://github.com/vgteam/vg) Vg has it's own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam
-* [odgi](https://github.com/pangenome/odgi)
+* [odgi](https://github.com/pangenome/odgi) Easy interconversion to main interchange format GFA.
 * [PanSN-spec](https://github.com/pangenome/PanSN-spec) A naming system for haplotypes in pangenomes
 * [GAF - Graph Alignment Format](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) Created by minigraph, convertible by vg. Similar to PAF.
 * [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) Created by vg giraffe. 
