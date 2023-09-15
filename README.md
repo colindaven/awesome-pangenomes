@@ -14,9 +14,9 @@
 
 # Pangenome construction
 
-* [Minigraph](https://github.com/lh3/minigraph) Fast method intended for 50+ bp SVs by Heng Li
-* [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus)
-* [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline.
+* [Minigraph](https://github.com/lh3/minigraph) Fast method intended for 50+ bp SVs by Heng Li, produces rGFA format (not GFA or odgi)
+* [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which aims to enable downstream compatibility. Produces GFA and odgi.
+* [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi.
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
 * [PSVCP](https://github.com/wjian8/psvcp_v1.01)
 * [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home)
@@ -36,7 +36,7 @@
 
 # Long read alignment to a pangenome graph
 
-* [GraphAligner](https://github.com/maickrau/GraphAligner) Fast long read aligner
+* [GraphAligner](https://github.com/maickrau/GraphAligner) Fast long read graph aligner
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [GraphChainer](https://github.com/algbio/GraphChainer) Built on codebase of GraphAligner
 * [Spades Pathracer](https://github.com/eodus/pathracer#sec4.3) Align long reads to genomic graphs
@@ -50,7 +50,7 @@
 * [vg call](https://github.com/vgteam/vg) SNP caller for pangenomes, with gam or GAF output
 * [Paragraph](https://github.com/Illumina/paragraph)
 * [Pangenie](https://github.com/eblerjana/pangenie)
-* vg surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc
+* [vg call](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc
 
 
 
