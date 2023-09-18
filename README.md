@@ -74,6 +74,7 @@
 * [Wally](https://github.com/tobiasrausch/wally#subcommand-gfa-visualization-of-pan-genome-graphs-work-in-progress) View GFA (Work in progress 2023)
 * [VRPG](https://github.com/codeatcg/VRPG) View rGFA or GFA, written in python and html
 * [Pantograph](https://help.pantograph.computomics.com/) is a commercial option
+* [PGV](https://github.com/w-gao/pgv) A web based viewer similar to SeqTubeMap
 
 # Pangenome viewers -static
 
