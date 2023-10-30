@@ -51,6 +51,7 @@
 * [Paragraph](https://github.com/Illumina/paragraph)
 * [Pangenie](https://github.com/eblerjana/pangenie)
 * [vg call](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc
+* [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
 
 
 
