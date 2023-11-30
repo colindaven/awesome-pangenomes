@@ -22,6 +22,7 @@
 * [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home)
 * [PATO](https://github.com/irycisBioinfo/PATO) R package for pangenome construction
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
+* [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
 
 
 # Short read alignment to a pangenome graph
