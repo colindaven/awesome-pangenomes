@@ -77,6 +77,8 @@
 * [VRPG](https://github.com/codeatcg/VRPG) View rGFA or GFA, written in python and html
 * [Pantograph](https://help.pantograph.computomics.com/) is a commercial option
 * [PGV](https://github.com/w-gao/pgv) A web based viewer similar to SeqTubeMap
+* [Pancat](https://github.com/Tharos-ux/pancat) Scripts to filter and visualize GFA files
+
 
 # Pangenome viewers -static
 
