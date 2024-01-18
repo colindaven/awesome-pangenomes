@@ -101,7 +101,7 @@
 * [odgi](https://github.com/pangenome/odgi) Easy interconversion to main interchange format GFA.
 * [PanSN-spec](https://github.com/pangenome/PanSN-spec) A naming system for haplotypes in pangenomes
 * [GAF - Graph Alignment Format](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) Created by minigraph, convertible by vg. Similar to PAF.
-* [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) Created by vg giraffe. 
+* [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) and [here](https://github.com/vgteam/libvgio/blob/master/deps/vg.proto#L38-L54) Created by vg giraffe. May be superseded by GAF format.
 
 
 # Miscellaneous tools
