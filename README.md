@@ -63,6 +63,10 @@
 * [Pangenie](https://github.com/eblerjana/pangenie)
 
 
+# Bubble (SV) detection
+
+* [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
+
 
 # Pangenome viewers -interactive
 
@@ -85,7 +89,6 @@
 
 * [vg](https://github.com/vgteam/vg) - generates static images
 * [odgi](https://github.com/pangenome/odgi) - generates static images
-* [tubemaps](https://github.com/vgteam/sequenceTubeMap) displays multiple genomic sequences in the form of a tube map 
 
 
 # Graph validation tools
@@ -93,9 +96,6 @@
 * [vg validate](https://github.com/vgteam/vg)
 * [odgi validate](https://github.com/pangenome/odgi)
 
-# Bubbles detection
-
-* [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
 
 # File formats
 
@@ -119,7 +119,7 @@
 * [PanKmer](https://gitlab.com/salk-tm/pankmer)
 
 
-# Librairies to explore pangenomes
+# Libraries to explore pangenomes
 
 * [gfapy](https://github.com/ggonnella/gfapy) implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python
 * [gfagraphs](https://github.com/Tharos-ux/gfagraphs) implements rGFA and GFA1 parsing and editing of graphs in Python
