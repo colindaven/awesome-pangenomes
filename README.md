@@ -58,9 +58,10 @@
 
 # Structural Variation (SV) callers and genotypers
 
-* [vg call](https://github.com/vgteam/vg)
-* [GraphTyper](https://github.com/DecodeGenetics/graphtyper)
-* [Pangenie](https://github.com/eblerjana/pangenie)
+* [vg call](https://github.com/vgteam/vg) Call and genotype structural variants on a graph using long and short reads.
+* [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
+* [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
+* [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a pangenome.
 
 
 # Bubble (SV) detection
