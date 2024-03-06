@@ -1,5 +1,5 @@
 # awesome-pangenomes
-## A list of software capable of analyzing eukaryotic genomes for pangenomics 
+## A list of software capable of analyzing **eukaryotic** genomes for pangenomics 
 
 
 # Toolkits
@@ -9,6 +9,8 @@
 * [gfatools](https://github.com/lh3/gfatools) Toolkit for GFA parsing and conversion
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
+* [gretl](https://github.com/MoinSebi/gretl) Statistics and analysis for GFA files, written in Rust
+
 
 
 
