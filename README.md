@@ -64,7 +64,7 @@
 * [vg call](https://github.com/vgteam/vg) Call and genotype structural variants on a graph using long and short reads.
 * [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
-* [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a pangenome.
+* [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a GFA format pangenome.
 
 
 # Bubble (SV) detection
@@ -128,6 +128,10 @@
 * [gfapy](https://github.com/ggonnella/gfapy) implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python
 * [gfagraphs](https://github.com/Tharos-ux/gfagraphs) implements rGFA and GFA1 parsing and editing of graphs in Python
 * [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) a python package to read and analyze the PAF and the GFA files for the graphs.
+
+
+# Other lists of pangenome tools
+
 * [Practical Pangenome Graphs](https://pangenome.github.io/)
 
 # Contributions
