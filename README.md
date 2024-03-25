@@ -94,6 +94,11 @@
 * [vg](https://github.com/vgteam/vg) - generates static images
 * [odgi](https://github.com/pangenome/odgi) - generates static images
 
+# Pangenome pipelines
+
+* [pangenome](https://github.com/nf-core/pangenome). A comprehensive nf-core Nextflow pipeline using PGGB and odgi components. Better parallelized than PGGB alone.
+* [pangepop](https://forgemia.inra.fr/pangepop/pangepop) A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe
+
 
 # Graph validation tools
 
