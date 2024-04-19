@@ -26,6 +26,7 @@
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
 * [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
+* [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference
 
 
 # Short read alignment to a pangenome graph
@@ -88,10 +89,12 @@
 * [Pancat](https://github.com/Tharos-ux/pancat) Scripts to filter and visualize GFA files
 * [gfaestus](https://github.com/chfi/gfaestus) GFA visualizer, GPU-accelerated using Vulkan 
 * [gfaviz](https://github.com/ggonnella/gfaviz) Graphical interactive tool for the visualization of sequence graphs in GFA format
+* [AGB](https://github.com/almiheenko/AGB) Interactive assembly graph browser
+* [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph.
 
 # Pangenome viewers -static
 
-* [vg](https://github.com/vgteam/vg) - generates static images
+* [vg view](https://github.com/vgteam/vg) - generates static images
 * [odgi](https://github.com/pangenome/odgi) - generates static images
 
 # Pangenome pipelines
@@ -104,7 +107,6 @@
 
 * [vg validate](https://github.com/vgteam/vg)
 * [odgi validate](https://github.com/pangenome/odgi)
-
 
 # File formats
 
