@@ -27,7 +27,7 @@
 * [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference (warning - last updated 2018)
-* [pangene](https://github.com/lh3/pangene) Pangene is a command-line tool to construct a pangenome gene graph
+* [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization 
 
 
 # Short read alignment to a pangenome graph
@@ -54,8 +54,8 @@
 # SNP callers and genotypers
 
 * [vg call](https://github.com/vgteam/vg) SNP caller for pangenomes, with gam or GAF output
-* [Paragraph](https://github.com/Illumina/paragraph)
-* [Pangenie](https://github.com/eblerjana/pangenie)
+* [Paragraph](https://github.com/Illumina/paragraph) A suite of graph-based genotyping tools for short read data
+* [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
 * [vg call](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc
 * [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
 
@@ -92,6 +92,7 @@
 * [gfaviz](https://github.com/ggonnella/gfaviz) Graphical interactive tool for the visualization of sequence graphs in GFA format
 * [AGB](https://github.com/almiheenko/AGB) Interactive assembly graph browser
 * [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph.
+* [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence absence.
 
 # Pangenome viewers -static
 
