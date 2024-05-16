@@ -27,6 +27,7 @@
 * [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference (warning - last updated 2018)
+* [pangene](https://github.com/lh3/pangene) Pangene is a command-line tool to construct a pangenome gene graph
 
 
 # Short read alignment to a pangenome graph
