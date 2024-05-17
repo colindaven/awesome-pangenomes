@@ -4,8 +4,8 @@
 
 # Toolkits
 
-* [vg](https://github.com/vgteam/vg) Full featured construction, mapping and SNP calling toolkit based on multiple formats.
-* [odgi](https://github.com/pangenome/odgi) Fast toolkit based on odgi format
+* [vg](https://github.com/vgteam/vg) Full featured construction, mapping and SNP calling toolkit based on multiple formats. :rocket:
+* [odgi](https://github.com/pangenome/odgi) Fast toolkit based on odgi format :rocket:
 * [gfatools](https://github.com/lh3/gfatools) Toolkit for GFA parsing and conversion
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
@@ -16,9 +16,9 @@
 
 # Pangenome construction
 
-* [Minigraph](https://github.com/lh3/minigraph) Fast method originally intended for 50+ bp SVs by Heng Li, produces rGFA format (not GFA or odgi)
-* [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which aims to enable downstream compatibility. Produces GFA and odgi.
-* [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi.
+* [Minigraph](https://github.com/lh3/minigraph) Fast method originally intended for 50+ bp SVs by Heng Li, produces rGFA format (not GFA or odgi) :rocket:
+* [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which aims to enable downstream compatibility. Produces GFA and odgi. :rocket:
+* [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
 * [PSVCP](https://github.com/wjian8/psvcp_v1.01)
 * [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home)
@@ -27,7 +27,7 @@
 * [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference (warning - last updated 2018)
-* [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization 
+* [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
 
 
 # Short read alignment to a pangenome graph
