@@ -1,6 +1,7 @@
 # awesome-pangenomes
 ## A list of software capable of analyzing **eukaryotic** genomes for pangenomics 
 
+:rocket: indicates a popular repository
 
 # Toolkits
 
@@ -16,8 +17,8 @@
 
 # Pangenome construction
 
-* [Minigraph](https://github.com/lh3/minigraph) Fast method originally intended for 50+ bp SVs by Heng Li, produces rGFA format (not GFA or odgi) :rocket:
-* [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which aims to enable downstream compatibility. Produces GFA and odgi. :rocket:
+* [Minigraph](https://github.com/lh3/minigraph) Fast method by Heng Li, produces referenceGFA (rGFA) format (not GFA or odgi) :rocket:
+* [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
 * [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
 * [PSVCP](https://github.com/wjian8/psvcp_v1.01)
@@ -33,7 +34,7 @@
 # Short read alignment to a pangenome graph
 
 * [vg map](https://github.com/vgteam/vg) Original vg mapper (superseded by vg giraffe)
-* [vg giraffe](https://github.com/vgteam/vg) Faster and more modern alternative to vg map
+* [vg giraffe](https://github.com/vgteam/vg) Faster and more modern alternative to vg map :rocket:
 * [Hisat2](https://github.com/DaehwanKimLab/hisat2)
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
@@ -42,8 +43,8 @@
 
 # Long read alignment to a pangenome graph
 
-* [GraphAligner](https://github.com/maickrau/GraphAligner) Fast long read graph aligner
-* [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
+* [GraphAligner](https://github.com/maickrau/GraphAligner) Fast long read graph aligner :rocket:
+* [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs 
 * [GraphChainer](https://github.com/algbio/GraphChainer) Built on codebase of GraphAligner
 * [Spades Pathracer](https://github.com/eodus/pathracer#sec4.3) Align long reads to genomic graphs
 * [Minichain](https://github.com/at-cg/minichain) Align long reads to pangenomes in GFA or rGFA format
@@ -53,17 +54,17 @@
 
 # SNP callers and genotypers
 
-* [vg call](https://github.com/vgteam/vg) SNP caller for pangenomes, with gam or GAF output
+* [vg call](https://github.com/vgteam/vg) SNP caller for pangenomes, with gam or GAF output :rocket:
 * [Paragraph](https://github.com/Illumina/paragraph) A suite of graph-based genotyping tools for short read data
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
-* [vg call](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc
+* [vg surject](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc :rocket:
 * [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
 
 
 
 # Structural Variation (SV) callers and genotypers
 
-* [vg call](https://github.com/vgteam/vg) Call and genotype structural variants on a graph using long and short reads.
+* [vg call](https://github.com/vgteam/vg) Call and genotype structural variants on a graph using long and short reads. :rocket:
 * [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
 * [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a GFA format pangenome.
@@ -77,22 +78,22 @@
 # Pangenome viewers -interactive
 
 * [Panagram](https://github.com/kjenike/panagram)
-* [Bandage](https://github.com/rrwick/Bandage) Visualize GFA files
-* [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) Elegant path visualization for smaller regions of a pangenome from the vg team
+* [Bandage](https://github.com/rrwick/Bandage) Visualize GFA files in an interactive standalone app :rocket:
+* [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) Elegant path visualization for smaller regions of a pangenome from the vg team :rocket:
 * [VAG](https://github.com/lipingfangs/VAG) Visualization of short sequence alignments in a pangenome
 * [Panache](https://github.com/SouthGreenPlatform/panache) View linearized pangenomes
 * [Waragraph](https://github.com/chfi/waragraph)
 * [PanGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer)
 * [Wally](https://github.com/tobiasrausch/wally#subcommand-gfa-visualization-of-pan-genome-graphs-work-in-progress) View GFA (Work in progress 2023)
 * [VRPG](https://github.com/codeatcg/VRPG) View rGFA or GFA, written in python and html
-* [Pantograph](https://help.pantograph.computomics.com/) is a commercial option
+* [Pantograph](https://help.pantograph.computomics.com/) is a commercial pangenome graph viewer option
 * [PGV](https://github.com/w-gao/pgv) A web based viewer similar to SeqTubeMap
 * [Pancat](https://github.com/Tharos-ux/pancat) Scripts to filter and visualize GFA files
 * [gfaestus](https://github.com/chfi/gfaestus) GFA visualizer, GPU-accelerated using Vulkan 
 * [gfaviz](https://github.com/ggonnella/gfaviz) Graphical interactive tool for the visualization of sequence graphs in GFA format
 * [AGB](https://github.com/almiheenko/AGB) Interactive assembly graph browser
-* [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph.
-* [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence absence.
+* [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. :rocket:
+* [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence absence. :rocket:
 
 # Pangenome viewers -static
 
@@ -101,7 +102,7 @@
 
 # Pangenome pipelines
 
-* [pangenome](https://github.com/nf-core/pangenome). A comprehensive nf-core Nextflow pipeline using PGGB and odgi components. Better parallelized than PGGB alone.
+* [pangenome](https://github.com/nf-core/pangenome). A comprehensive nf-core Nextflow pipeline using PGGB and odgi components. Better parallelized than PGGB alone. :rocket:
 * [pangepop](https://forgemia.inra.fr/pangepop/pangepop) A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe
 
 
@@ -112,7 +113,7 @@
 
 # File formats
 
-* [GFA](http://gfa-spec.github.io/GFA-spec/GFA1.html) An assembly interchange format read by both vg and odgi
+* [GFA](http://gfa-spec.github.io/GFA-spec/GFA1.html) An assembly interchange format read by both vg and odgi :rocket:
 * [rGFA](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md) An extended GFA format, rGFA contains extra tags and includes a reference sequence. See minigraph.
 * [vg](https://github.com/vgteam/vg) Vg has it's own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam
 * [odgi](https://github.com/pangenome/odgi) Easy interconversion to main interchange format GFA.
