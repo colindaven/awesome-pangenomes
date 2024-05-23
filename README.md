@@ -29,6 +29,7 @@
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference (warning - last updated 2018)
 * [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
+* [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 
 
 # Short read alignment to a pangenome graph
