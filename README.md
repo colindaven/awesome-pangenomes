@@ -11,7 +11,6 @@
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
 * [gretl](https://github.com/MoinSebi/gretl) Statistics and analysis for GFA files, written in Rust
-* [rs-gfa](https://github.com/chfi/rs-gfa) GFA parser in Rust.
 * [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Took Kit, the unfortunate thing is that the output of this process is not a GFA file.
 
 
@@ -30,6 +29,7 @@
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference (warning - last updated 2018)
 * [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
 * [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
+* [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 
 
 # Short read alignment to a pangenome graph
@@ -39,7 +39,6 @@
 * [Hisat2](https://github.com/DaehwanKimLab/hisat2)
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
-* [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner
 
 
 
@@ -51,7 +50,7 @@
 * [Spades Pathracer](https://github.com/eodus/pathracer#sec4.3) Align long reads to genomic graphs
 * [Minichain](https://github.com/at-cg/minichain) Align long reads to pangenomes in GFA or rGFA format
 * [PanAligner](https://github.com/at-cg/PanAligner) Align long reads to pangenomes
-
+* [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 
 
 # SNP callers and genotypers
@@ -128,6 +127,7 @@
 
 * [gfainject](https://github.com/chfi/gfainject) Map short alignments in BAM format to a GFA (seems it is not a real aligner but a conversion tool). Output in GAF format.
 * [GRAFIMO](https://github.com/pinellolab/GRAFIMO) GRAph-based Finding of Individual Motif Occurrences using vg
+* [rs-gfa](https://github.com/chfi/rs-gfa) A GFA parser in Rust.
 
 
 # kmer based approaches
