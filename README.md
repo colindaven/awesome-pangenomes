@@ -11,8 +11,8 @@
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
 * [gretl](https://github.com/MoinSebi/gretl) Statistics and analysis for GFA files, written in Rust
-
-
+* [rs-gfa](https://github.com/chfi/rs-gfa) GFA parser in Rust.
+* [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Took Kit, the unfortunate thing is that the output of this process is not a GFA file.
 
 
 # Pangenome construction
@@ -21,7 +21,7 @@
 * [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
 * [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
-* [PSVCP](https://github.com/wjian8/psvcp_v1.01)
+* [PSVCP](https://github.com/wjian8/psvcp_v1.01) Add PAV to the linear genome to construct a pangenome.
 * [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home)
 * [PATO](https://github.com/irycisBioinfo/PATO) R package for pangenome construction
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
@@ -39,6 +39,7 @@
 * [Hisat2](https://github.com/DaehwanKimLab/hisat2)
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
+* [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner
 
 
 
