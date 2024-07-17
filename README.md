@@ -19,6 +19,7 @@
 * [Minigraph](https://github.com/lh3/minigraph) Fast method by Heng Li, produces referenceGFA (rGFA) format (not GFA or odgi) :rocket:
 * [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
 * [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
+* [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
 * [PSVCP](https://github.com/wjian8/psvcp_v1.01) Add PAV to the linear genome to construct a pangenome.
 * [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home)
@@ -27,15 +28,14 @@
 * [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference (warning - last updated 2018)
-* [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
 * [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 
 
 # Short read alignment to a pangenome graph
 
-* [vg map](https://github.com/vgteam/vg) Original vg mapper (superseded by vg giraffe)
 * [vg giraffe](https://github.com/vgteam/vg) Faster and more modern alternative to vg map :rocket:
+* [vg map](https://github.com/vgteam/vg) Original vg mapper (superseded by vg giraffe)
 * [Hisat2](https://github.com/DaehwanKimLab/hisat2)
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
@@ -56,9 +56,9 @@
 # SNP callers and genotypers
 
 * [vg call](https://github.com/vgteam/vg) SNP caller for pangenomes, with gam or GAF output :rocket:
+* [vg surject](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc :rocket:
 * [Paragraph](https://github.com/Illumina/paragraph) A suite of graph-based genotyping tools for short read data
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
-* [vg surject](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc :rocket:
 * [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
 
 
@@ -78,13 +78,15 @@
 
 # Pangenome viewers -interactive
 
-* [Panagram](https://github.com/kjenike/panagram)
 * [Bandage](https://github.com/rrwick/Bandage) Visualize GFA files in an interactive standalone app :rocket:
 * [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) Elegant path visualization for smaller regions of a pangenome from the vg team :rocket:
+* [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. :rocket:
+* [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence/absence of genes. :rocket:
+* [Panagram](https://github.com/kjenike/panagram)
 * [VAG](https://github.com/lipingfangs/VAG) Visualization of short sequence alignments in a pangenome
 * [Panache](https://github.com/SouthGreenPlatform/panache) View linearized pangenomes
 * [Waragraph](https://github.com/chfi/waragraph)
-* [PanGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer)
+* [PanGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer) Desktop and web versions. Based on cytoscape.js. Can get to chromosome coordinates, allows VCF input.
 * [Wally](https://github.com/tobiasrausch/wally#subcommand-gfa-visualization-of-pan-genome-graphs-work-in-progress) View GFA (Work in progress 2023)
 * [VRPG](https://github.com/codeatcg/VRPG) View rGFA or GFA, written in python and html
 * [Pantograph](https://help.pantograph.computomics.com/) is a commercial pangenome graph viewer option
@@ -93,8 +95,6 @@
 * [gfaestus](https://github.com/chfi/gfaestus) GFA visualizer, GPU-accelerated using Vulkan 
 * [gfaviz](https://github.com/ggonnella/gfaviz) Graphical interactive tool for the visualization of sequence graphs in GFA format
 * [AGB](https://github.com/almiheenko/AGB) Interactive assembly graph browser
-* [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. :rocket:
-* [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence absence. :rocket:
 
 # Pangenome viewers -static
 
@@ -115,9 +115,9 @@
 # File formats
 
 * [GFA](http://gfa-spec.github.io/GFA-spec/GFA1.html) An assembly interchange format read by both vg and odgi :rocket:
+* [odgi](https://github.com/pangenome/odgi) Easy interconversion to main interchange format GFA. :rocket:
 * [rGFA](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md) An extended GFA format, rGFA contains extra tags and includes a reference sequence. See minigraph.
 * [vg](https://github.com/vgteam/vg) Vg has it's own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam
-* [odgi](https://github.com/pangenome/odgi) Easy interconversion to main interchange format GFA.
 * [PanSN-spec](https://github.com/pangenome/PanSN-spec) A naming system for haplotypes in pangenomes
 * [GAF - Graph Alignment Format](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) Created by minigraph, convertible by vg. Similar to PAF.
 * [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) and [here](https://github.com/vgteam/libvgio/blob/master/deps/vg.proto#L38-L54) Created by vg giraffe. May be superseded by GAF format.
