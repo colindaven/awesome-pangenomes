@@ -3,6 +3,10 @@
 
 :rocket: indicates a popular repository
 
+# Important blog posts
+
+* [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA formats and approaches - *important and frequently overlooked* 
+
 # Toolkits
 
 * [vg](https://github.com/vgteam/vg) Full featured construction, mapping and SNP calling toolkit based on multiple formats. :rocket:
