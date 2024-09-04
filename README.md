@@ -15,7 +15,7 @@
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
 * [gretl](https://github.com/MoinSebi/gretl) Statistics and analysis for GFA files, written in Rust
-* [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Took Kit, the unfortunate thing is that the output of this process is not a GFA file.
+* [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Took Kit, output of this process is not a GFA file.
 
 
 # Pangenome construction
@@ -31,7 +31,7 @@
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
 * [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
-* [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An Algorithm to Build a Multi-genome Reference (warning - last updated 2018)
+* [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An algorithm to Build a Multi-genome Reference (warning - last updated 2018)
 * [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 
@@ -132,6 +132,7 @@
 * [gfainject](https://github.com/chfi/gfainject) Map short alignments in BAM format to a GFA (seems it is not a real aligner but a conversion tool). Output in GAF format.
 * [GRAFIMO](https://github.com/pinellolab/GRAFIMO) GRAph-based Finding of Individual Motif Occurrences using vg
 * [rs-gfa](https://github.com/chfi/rs-gfa) A GFA parser in Rust.
+* [ropebwt3](https://github.com/lh3/ropebwt3) Can construct and align sequences against huge TB scale references and retrieve haplotypes.
 
 
 # kmer based approaches
