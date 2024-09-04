@@ -21,7 +21,7 @@
 # Pangenome construction
 
 * [Minigraph](https://github.com/lh3/minigraph) Fast method by Heng Li, produces referenceGFA (rGFA) format (not GFA or odgi) :rocket:
-* [Cactus/minigraph](https://github.com/ComparativeGenomicsToolkit/cactus) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
+* [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
 * [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
 * [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
