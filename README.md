@@ -86,7 +86,7 @@
 * [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) Elegant path visualization for smaller regions of a pangenome from the vg team :rocket:
 * [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. :rocket:
 * [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence/absence of genes. :rocket:
-* [Panagram](https://github.com/kjenike/panagram)
+* [Panagram](https://github.com/kjenike/panagram) Plots k-mer conservation
 * [VAG](https://github.com/lipingfangs/VAG) Visualization of short sequence alignments in a pangenome
 * [Panache](https://github.com/SouthGreenPlatform/panache) View linearized pangenomes
 * [Waragraph](https://github.com/chfi/waragraph)
@@ -99,11 +99,14 @@
 * [gfaestus](https://github.com/chfi/gfaestus) GFA visualizer, GPU-accelerated using Vulkan 
 * [gfaviz](https://github.com/ggonnella/gfaviz) Graphical interactive tool for the visualization of sequence graphs in GFA format
 * [AGB](https://github.com/almiheenko/AGB) Interactive assembly graph browser
+* [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/) Web based viewer for small to medium GFA files
+* [JBrowse 2](https://jbrowse.org) Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs (https://github.com/cmdcolin/jbrowse-plugin-mafviewer)
 
 # Pangenome viewers -static
 
 * [vg view](https://github.com/vgteam/vg) - generates static images
 * [odgi](https://github.com/pangenome/odgi) - generates static images
+* [plotsr](https://github.com/schneebergerlab/plotsr) - generates static images
 
 # Pangenome pipelines
 
@@ -150,6 +153,7 @@
 # Other lists of pangenome tools
 
 * [Practical Pangenome Graphs](https://pangenome.github.io/)
+* [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/) - specifically tools tagged with [Graph](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&tag=Graph) and or [Pangenome](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&tag=Pangenome)
 
 # Contributions
 
