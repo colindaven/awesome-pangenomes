@@ -101,11 +101,12 @@
 * [AGB](https://github.com/almiheenko/AGB) Interactive assembly graph browser
 * [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/) Web based viewer for small to medium GFA files
 * [JBrowse 2](https://jbrowse.org) Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs (https://github.com/cmdcolin/jbrowse-plugin-mafviewer)
+* [strangepg](https://github.com/qwx9/strangepg) A modern GFA viewer and alternative to the Bandage tool
 
 # Pangenome viewers -static
 
 * [vg view](https://github.com/vgteam/vg) - generates static images
-* [odgi](https://github.com/pangenome/odgi) - generates static images
+* [odgi](https://github.com/pangenome/odgi) - generates static images :rocket:
 * [plotsr](https://github.com/schneebergerlab/plotsr) - generates static images
 
 # Pangenome pipelines
