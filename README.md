@@ -35,6 +35,9 @@
 * [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 
+# Annotating pangenomes
+* [Annotation_scripts](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) and [preprint](https://www.biorxiv.org/content/10.1101/2024.10.12.618009v1) Annotate a minigraph-cactus pangenome with regions or SNPs
+
 
 # Short read alignment to a pangenome graph
 
