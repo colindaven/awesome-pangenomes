@@ -23,7 +23,6 @@
 * [Minigraph](https://github.com/lh3/minigraph) Fast method by Heng Li, produces referenceGFA (rGFA) format (not GFA or odgi) :rocket:
 * [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
 * [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
-* [nf-core pangenome](https://github.com/nf-core/pangenome) [Paper](https://doi.org/10.1093/bioinformatics/btae609) A scalable Nextflow approach to building pangenomes with PGGB with visualization by odgi. :rocket:
 * [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
 * [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
 * [PSVCP](https://github.com/wjian8/psvcp_v1.01) Add PAV to the linear genome to construct a pangenome.
@@ -35,6 +34,12 @@
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An algorithm to Build a Multi-genome Reference (warning - last updated 2018)
 * [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
+
+
+# Pangenome pipelines
+
+* [nf-core pangenome](https://github.com/nf-core/pangenome) [Paper](https://doi.org/10.1093/bioinformatics/btae609) A scalable Nextflow approach to building pangenomes with PGGB with visualization by odgi. :rocket:
+* [pangepop](https://forgemia.inra.fr/pangepop/pangepop) A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe
 
 # Annotating pangenomes
 * [Annotation_scripts](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) and [preprint](https://www.biorxiv.org/content/10.1101/2024.10.12.618009v1) Annotate a minigraph-cactus pangenome with regions or SNPs
@@ -77,10 +82,6 @@
 * [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
 * [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a GFA format pangenome.
-
-
-# Bubble (SV) detection
-
 * [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
 
 
@@ -113,10 +114,6 @@
 * [odgi](https://github.com/pangenome/odgi) - generates static images :rocket:
 * [plotsr](https://github.com/schneebergerlab/plotsr) - generates static images
 
-# Pangenome pipelines
-
-* [pangenome](https://github.com/nf-core/pangenome). A comprehensive nf-core Nextflow pipeline using PGGB and odgi components. Better parallelized than PGGB alone. :rocket:
-* [pangepop](https://forgemia.inra.fr/pangepop/pangepop) A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe
 
 
 # Graph validation tools
