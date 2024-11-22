@@ -9,14 +9,14 @@
 
 # Toolkits
 
-* [vg](https://github.com/vgteam/vg) Full featured construction, mapping and SNP calling toolkit based on multiple formats. :rocket:
-* [odgi](https://github.com/pangenome/odgi) Fast toolkit based on odgi format :rocket:
-* [gfatools](https://github.com/lh3/gfatools) Toolkit for GFA parsing and conversion
-* [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
+* [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (Eukaryote too excepted annotation)
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
+* [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
+* [gfatools](https://github.com/lh3/gfatools) Toolkit for GFA parsing and conversion
 * [gretl](https://github.com/MoinSebi/gretl) Statistics and analysis for GFA files, written in Rust
+* [odgi](https://github.com/pangenome/odgi) Fast toolkit based on odgi format :rocket:
 * [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Took Kit, output of this process is not a GFA file.
-
+* [vg](https://github.com/vgteam/vg) Full featured construction, mapping and SNP calling toolkit based on multiple formats. :rocket:
 
 # Pangenome construction
 
