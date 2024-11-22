@@ -139,6 +139,8 @@
 * [GRAFIMO](https://github.com/pinellolab/GRAFIMO) GRAph-based Finding of Individual Motif Occurrences using vg
 * [rs-gfa](https://github.com/chfi/rs-gfa) A GFA parser in Rust.
 * [ropebwt3](https://github.com/lh3/ropebwt3) Can construct and align sequences against huge TB scale references and retrieve haplotypes.
+* [junctions](https://github.com/urbanslug/junctions) Pangenome comparison using elastic-degenerate strings.
+* [rs-pancat-compare](https://github.com/dubssieg/rs-pancat-compare) Pairwise pangenome graph comparison by the computation of a segmentation edit distance.
 
 
 # kmer based approaches
