@@ -1,5 +1,5 @@
 # awesome-pangenomes
-## A list of software capable of analyzing **eukaryotic** genomes for pangenomics 
+## A list of software capable of analyzing mainly **eukaryotic** genomes for pangenomics. A new section for microbial genomes has also been added, these tools may not scale to large genomes. 
 
 :rocket: indicates a popular repository
 
@@ -9,7 +9,6 @@
 
 # Toolkits
 
-* [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (Eukaryote too excepted annotation)
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gfatools](https://github.com/lh3/gfatools) Toolkit for GFA parsing and conversion
@@ -126,6 +125,11 @@
 
 * [junctions](https://github.com/urbanslug/junctions) Pangenome comparison using elastic-degenerate strings.
 * [rs-pancat-compare](https://github.com/dubssieg/rs-pancat-compare) Pairwise pangenome graph comparison by the computation of a segmentation edit distance.
+
+# Pangenome tools for microbes
+
+* [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (Eukaryote too excepted annotation)
+* [Roary](https://github.com/sanger-pathogens/Roary) A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. 
 
 # File formats
 
