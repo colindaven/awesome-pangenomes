@@ -122,6 +122,11 @@
 * [vg validate](https://github.com/vgteam/vg)
 * [odgi validate](https://github.com/pangenome/odgi)
 
+# Pangenome comparison
+
+* [junctions](https://github.com/urbanslug/junctions) Pangenome comparison using elastic-degenerate strings.
+* [rs-pancat-compare](https://github.com/dubssieg/rs-pancat-compare) Pairwise pangenome graph comparison by the computation of a segmentation edit distance.
+
 # File formats
 
 * [GFA](http://gfa-spec.github.io/GFA-spec/GFA1.html) An assembly interchange format read by both vg and odgi :rocket:
