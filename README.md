@@ -84,6 +84,10 @@
 * [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
 * [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) [preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
 
+# Repeat analysis tools
+
+*[Pantera](https://github.com/piosierra/pantera) Identification of transposon element families from a set of pangenomes
+
 
 # Pangenome viewers -interactive
 
@@ -113,7 +117,6 @@
 * [vg view](https://github.com/vgteam/vg) - generates static images
 * [odgi](https://github.com/pangenome/odgi) - generates static images :rocket:
 * [plotsr](https://github.com/schneebergerlab/plotsr) - generates static images
-
 
 
 # Graph validation tools
