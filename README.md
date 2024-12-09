@@ -1,5 +1,7 @@
 # awesome-pangenomes
-## A list of software capable of analyzing mainly **eukaryotic** genomes for pangenomics. A new section for microbial genomes has also been added, these tools may not scale to large genomes. 
+## A list of software capable of analyzing mainly **eukaryotic** genomes for pangenomics. 
+
+A new section for microbial genomes has also been added, these tools may not scale to large genomes. 
 
 :rocket: indicates a popular repository
 
