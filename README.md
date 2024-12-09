@@ -152,6 +152,7 @@
 * [GRAFIMO](https://github.com/pinellolab/GRAFIMO) GRAph-based Finding of Individual Motif Occurrences using vg
 * [rs-gfa](https://github.com/chfi/rs-gfa) A GFA parser in Rust.
 * [ropebwt3](https://github.com/lh3/ropebwt3) Can construct and align sequences against huge TB scale references and retrieve haplotypes.
+* [pollen](https://github.com/cucapra/pollen) A nascent project to develop faster tools for pangenomics in python and Rust. Contains MyGFA, FlatGFA and slow_odgi.
 
 
 # kmer based approaches
