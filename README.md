@@ -89,7 +89,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Repeat analysis tools
 
-*[Pantera](https://github.com/piosierra/pantera) Identification of transposon element families from a set of pangenomes
+* [Pantera](https://github.com/piosierra/pantera) Identification of transposon element families from a set of pangenomes
 
 
 # Pangenome viewers -interactive
