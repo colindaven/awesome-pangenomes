@@ -121,6 +121,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [odgi](https://github.com/pangenome/odgi) - generates static images :rocket:
 * [plotsr](https://github.com/schneebergerlab/plotsr) - generates static images
 
+# Bridging pangenomes and statistics
+* [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
 
 # Graph validation tools
 
