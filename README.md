@@ -87,6 +87,11 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
 * [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) [preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
 
+# Transcriptome analysis
+
+* [pantas](https://github.com/AlgoLab/pantas) Haplotype aware differential quantification of alternative splicing events on spliced pangenome graphs
+* [rpvg](https://github.com/jonassibbesen/rpvg) Infer the expression of haplotype-specific transcript paths using RNA-seq reads aligned to a spliced pangenome graph
+
 # Repeat analysis tools
 
 * [Pantera](https://github.com/piosierra/pantera) Identification of transposon element families from a set of pangenomes
