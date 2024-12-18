@@ -175,6 +175,9 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gfagraphs](https://github.com/Tharos-ux/gfagraphs) implements rGFA and GFA1 parsing and editing of graphs in Python
 * [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) a python package to read and analyze the PAF and the GFA files for the graphs.
 
+# Tutorials
+
+* [INRA_pangenomes:tutorial](https://pangenome-hackathon-genotoul-bioinfo-11d6d4f47ac33734abfa2a1377.pages.mia.inra.fr/pages/tutorial_pangenome_graph/) 2024 - Nice pangenome glossary and tutorial
 
 # Other lists of pangenome tools
 
