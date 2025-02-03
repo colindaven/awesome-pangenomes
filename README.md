@@ -92,6 +92,13 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [pantas](https://github.com/AlgoLab/pantas) Haplotype aware differential quantification of alternative splicing events on spliced pangenome graphs
 * [rpvg](https://github.com/jonassibbesen/rpvg) Infer the expression of haplotype-specific transcript paths using RNA-seq reads aligned to a spliced pangenome graph
 
+
+# Methylation analysis
+
+* [methylGrapher](https://github.com/twlab/methylGrapher?tab=readme-ov-file) Align bisulfite reads to a pangenome GFA graph and call methylation
+
+
+
 # Repeat analysis tools
 
 * [Pantera](https://github.com/piosierra/pantera) Identification of transposon element families from a set of pangenomes
