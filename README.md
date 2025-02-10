@@ -36,6 +36,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An algorithm to Build a Multi-genome Reference (warning - last updated 2018)
 * [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
+* [pannagram](https://github.com/iganna/pannagram) Construct pangenomes and find SVs using blast, mafft and R tools
 
 
 # Pangenome pipelines
