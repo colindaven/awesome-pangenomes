@@ -22,21 +22,21 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Pangenome construction
 
-* [Minigraph](https://github.com/lh3/minigraph) Fast method by Heng Li, produces referenceGFA (rGFA) format (not GFA or odgi) :rocket:
-* [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
-* [PGGB](https://github.com/pangenome/pggb) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
-* [pangene](https://github.com/lh3/pangene) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
-* [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) Fully featured construction of pangenome graphs
-* [PSVCP](https://github.com/wjian8/psvcp_v1.01) Add PAV to the linear genome to construct a pangenome.
-* [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home)
-* [PATO](https://github.com/irycisBioinfo/PATO) R package for pangenome construction
-* [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
-* [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) Perl scripts used by the Ensembl Plants team for pangenomics
+* [Minigraph](https://github.com/lh3/minigraph) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02168-z)) Fast method by Heng Li, produces referenceGFA (rGFA) format (not GFA or odgi) :rocket:
+* [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) ([paper](https://www.nature.com/articles/s41587-023-01793-w)) Pangenome builder which prioritizes downstream compatibility. Produces GFA and odgi. :rocket:
+* [PGGB](https://github.com/pangenome/pggb) ([paper](https://www.nature.com/articles/s41592-024-02430-3)) Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. :rocket:
+* [pangene](https://github.com/lh3/pangene) ([paper](https://academic.oup.com/bioinformatics/article/40/7/btae456/7718494?login=true)) Pangene constructs a pangenome gene graph from one protein set and many genomes and includes simple but effective visualization :rocket:
+* [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) ([paper](https://academic.oup.com/bioinformatics/article-abstract/38/18/4403/6647839)) Fully featured construction of pangenome graphs
+* [PSVCP](https://github.com/wjian8/psvcp_v1.01) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02861-9)) Add PAV to the linear genome to construct a pangenome.
+* [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home) ([paper](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20009))
+* [PATO](https://github.com/irycisBioinfo/PATO) ([paper](https://academic.oup.com/bioinformatics/article/37/23/4564/6384566)) R package for pangenome construction
+* [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) ([poster](https://www.cs.toronto.edu/~kgao/assets/pdf/CMG-Poster.pdf)) Generate and map reads onto a coloured minimizer pangenome graph
+* [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03071-z)) Perl scripts used by the Ensembl Plants team for pangenomics
 * [impg](https://github.com/ekg/impg) Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc.
-* [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) An algorithm to Build a Multi-genome Reference (warning - last updated 2018)
-* [MEMO](https://github.com/StephenHwang/MEMO) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
+* [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) ([preprint](https://www.biorxiv.org/content/10.1101/2020.04.11.036871)) An algorithm to Build a Multi-genome Reference (warning - last updated 2018)
+* [MEMO](https://github.com/StephenHwang/MEMO) ([preprint](https://www.biorxiv.org/content/10.1101/2024.05.20.595044)) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
-* [pannagram](https://github.com/iganna/pannagram) Construct pangenomes and find SVs using blast, mafft and R tools
+* [pannagram](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) Construct pangenomes and find SVs using blast, mafft and R tools
 
 
 # Pangenome pipelines
