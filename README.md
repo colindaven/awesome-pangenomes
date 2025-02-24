@@ -69,24 +69,20 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 
 
-# SNP callers and genotypers
+# SNP and Structural Variant (SV) callers and genotypers
 
-* [vg call](https://github.com/vgteam/vg) SNP caller for pangenomes, with gam or GAF output :rocket:
+* [vg call](https://github.com/vgteam/vg) Variant caller for pangenomes, with gam or GAF output :rocket:
 * [vg surject](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc :rocket:
 * [Paragraph](https://github.com/Illumina/paragraph) A suite of graph-based genotyping tools for short read data
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
 * [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
-
-
-
-# Structural Variation (SV) callers and genotypers
-
-* [vg call](https://github.com/vgteam/vg) Call and genotype structural variants on a graph using long and short reads. :rocket:
+* [Varigraph](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1) [Preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1) A pangenome graph based genotyper for diploid and polyploid genomes
 * [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
-* [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
 * [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a GFA format pangenome.
 * [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
 * [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) [preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
+* [Ctyper](https://github.com/ChaissonLab/Ctyper) Allele-specific and copy number specific genotyping using pangenomes
+
 
 # Transcriptome analysis
 
