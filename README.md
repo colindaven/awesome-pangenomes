@@ -45,6 +45,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [pangepop](https://forgemia.inra.fr/pangepop/pangepop) A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe
 
 # Annotating pangenomes
+* [GrAnnoT](https://forge.ird.fr/diade/dynadiv/grannot) and [preprint](https://www.biorxiv.org/content/10.1101/2025.02.26.640337v1) Transfer linear genomic annotations through a pangenome GFA graph
 * [Annotation_scripts](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) and [preprint](https://www.biorxiv.org/content/10.1101/2024.10.12.618009v1) Annotate a minigraph-cactus pangenome with regions or SNPs
 
 
