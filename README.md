@@ -131,6 +131,11 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [odgi](https://github.com/pangenome/odgi) - generates static images :rocket:
 * [plotsr](https://github.com/schneebergerlab/plotsr) - generates static images
 
+# Graph quality assessment
+
+* [PG-SCunK](https://github.com/cumtr/PG-SCUnK/) [preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1) - assess graph representation quality using unique kmers from source genomes
+
+
 # Bridging pangenomes and statistics
 * [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
 
