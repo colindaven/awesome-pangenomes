@@ -83,6 +83,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
 * [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) [preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
 * [Ctyper](https://github.com/ChaissonLab/Ctyper) Allele-specific and copy number specific genotyping using pangenomes
+* [rs-gfa-utils](https://github.com/chfi/rs-gfa-utils) Rust utils for GFA format operations including ultrabubble (SV) to VCF, GAF to PAF, subgraphs etc
 
 
 # Transcriptome analysis
@@ -170,6 +171,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gfainject](https://github.com/chfi/gfainject) Map short alignments in BAM format to a GFA (seems it is not a real aligner but a conversion tool). Output in GAF format.
 * [GRAFIMO](https://github.com/pinellolab/GRAFIMO) GRAph-based Finding of Individual Motif Occurrences using vg.
 * [rs-gfa](https://github.com/chfi/rs-gfa) A GFA parser in Rust.
+* [rs-gfa-utils](https://github.com/chfi/rs-gfa-utils) Rust utils for GFA format operations including ultrabubble (SV) to VCF, GAF to PAF, subgraphs etc
 * [ropebwt3](https://github.com/lh3/ropebwt3) Can construct and align sequences against huge TB scale references and retrieve haplotypes.
 * [pollen](https://github.com/cucapra/pollen) A nascent project to develop faster tools for pangenomics in python and Rust. Contains MyGFA, FlatGFA and slow_odgi.
 * [mumemto](https://github.com/vikshiv/mumemto) Use maximal unique matches to analyze and statically visualize a set of fasta sequences.
