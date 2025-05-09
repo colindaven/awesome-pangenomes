@@ -97,10 +97,14 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [methylGrapher](https://github.com/twlab/methylGrapher?tab=readme-ov-file) Align bisulfite reads to a pangenome GFA graph and call methylation
 
 
-
-# Repeat analysis tools
+# Repeat analysis
 
 * [Pantera](https://github.com/piosierra/pantera) Identification of transposon element families from a set of pangenomes
+
+# Metagenome analysis
+
+* [Pantax](https://github.com/LuoGroup2023/PanTax) Pantax attempts to provide strain level metagenomic attribution for short or long reads (but requires the licensed Gurobi optimizer)
+
 
 
 # Pangenome viewers -interactive
