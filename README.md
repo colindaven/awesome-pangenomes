@@ -37,6 +37,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [MEMO](https://github.com/StephenHwang/MEMO) ([preprint](https://www.biorxiv.org/content/10.1101/2024.05.20.595044)) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 * [pannagram](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) Construct pangenomes and find SVs using blast, mafft and R tools
+* [pandagma](https://github.com/legumeinfo/pandagma) Calculate pan-gene sets from a collection of genome assemblies and their annotations
 
 
 # Pangenome pipelines
