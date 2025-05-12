@@ -38,6 +38,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 * [pannagram](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) Construct pangenomes and find SVs using blast, mafft and R tools
 * [pandagma](https://github.com/legumeinfo/pandagma) Calculate pan-gene sets from a collection of genome assemblies and their annotations
+* [Panscan](https://github.com/CATG-Github/panscan) Construct a matrix and identify novel sequences, SVs, and repetitive regions. Requires Gencode GFF3s. Human orientated.
 
 
 # Pangenome pipelines
@@ -85,6 +86,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) [preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
 * [Ctyper](https://github.com/ChaissonLab/Ctyper) Allele-specific and copy number specific genotyping using pangenomes
 * [rs-gfa-utils](https://github.com/chfi/rs-gfa-utils) Rust utils for GFA format operations including ultrabubble (SV) to VCF, GAF to PAF, subgraphs etc
+
 
 
 # Transcriptome analysis
