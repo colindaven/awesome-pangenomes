@@ -36,7 +36,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) ([preprint](https://www.biorxiv.org/content/10.1101/2020.04.11.036871)) An algorithm to Build a Multi-genome Reference (warning - last updated 2018)
 * [MEMO](https://github.com/StephenHwang/MEMO) ([preprint](https://www.biorxiv.org/content/10.1101/2024.05.20.595044)) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
-* [SEQUISH](https://github.com/ekg/seqwish) ([paper](https://academic.oup.com/bioinformatics/article/39/1/btac743/6854971)) Unbiased pangenome graphs
+* [SEQWISH](https://github.com/ekg/seqwish) ([paper](https://academic.oup.com/bioinformatics/article/39/1/btac743/6854971)) Unbiased pangenome graphs
 * [pannagram](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) Construct pangenomes and find SVs using blast, mafft and R tools
 * [pandagma](https://github.com/legumeinfo/pandagma) Calculate pan-gene sets from a collection of genome assemblies and their annotations
 * [Panscan](https://github.com/CATG-Github/panscan) Construct a matrix and identify novel sequences, SVs, and repetitive regions. Requires Gencode GFF3s. Human orientated.
