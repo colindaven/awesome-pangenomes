@@ -16,7 +16,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gaftools](https://github.com/marschall-lab/gaftools) Toolkit for GAF (Graph Alignment Format) sorting and manipulation.
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gfatools](https://github.com/lh3/gfatools) Toolkit for GFA parsing and conversion
-* [gretl](https://github.com/MoinSebi/gretl) Statistics and analysis for GFA files, written in Rust
+* [gretl](https://github.com/MoinSebi/gretl) ([paper](https://github.com/MoinSebi/gretl)) Statistics and analysis for GFA files, written in Rust
 * [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Took Kit, output of this process is not a GFA file.
 
 
@@ -36,19 +36,29 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) ([preprint](https://www.biorxiv.org/content/10.1101/2020.04.11.036871)) An algorithm to Build a Multi-genome Reference (warning - last updated 2018)
 * [MEMO](https://github.com/StephenHwang/MEMO) ([preprint](https://www.biorxiv.org/content/10.1101/2024.05.20.595044)) MEMO constructs a pangenome and index and allows kmer based conservation analyses and visualization
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
+* [SEQUISH](https://github.com/ekg/seqwish) ([paper](https://academic.oup.com/bioinformatics/article/39/1/btac743/6854971)) Unbiased pangenome graphs
 * [pannagram](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) Construct pangenomes and find SVs using blast, mafft and R tools
 * [pandagma](https://github.com/legumeinfo/pandagma) Calculate pan-gene sets from a collection of genome assemblies and their annotations
 * [Panscan](https://github.com/CATG-Github/panscan) Construct a matrix and identify novel sequences, SVs, and repetitive regions. Requires Gencode GFF3s. Human orientated.
+* [CoreDetector](https://github.com/mfruzan/CoreDetector) ([paper](https://academic.oup.com/bioinformatics/article/39/11/btad628/7329718)) CoreDetector: a flexible and efficient program for core-genome alignment of evolutionary diverse genomes
+* [PanKmer](https://gitlab.com/salk-tm/pankmer) ([paper](https://academic.oup.com/bioinformatics/article/39/10/btad621/7319363)) PanKmer: k-mer-based and reference-free pangenome analysis
+
+
+# Pangenomes construction with De Bruijn graphs 
+* [Bifrost](https://github.com/pmelsted/bifrost) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02135-8)) Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs
+* [TwoPaCo](https://github.com/medvedevgroup/TwoPaCo) ([paper](https://academic.oup.com/bioinformatics/article/33/24/4024/2725383)) TwoPaCo: an efficient algorithm to build the compacted de Bruijn graph from many complete genomes
+* [Nexus](https://github.com/biointec/nexus ) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05531-6)) Pan-genome de Bruijn graph using the bidirectional FM-index
+* [Graphite](https://github.com/MGXlab/Graphite) ([paper](https://academic.oup.com/nargab/article/6/4/lqae142/7832412)) Graphite: painting genomes using a colored de Bruijn graph 
 
 
 # Pangenome pipelines
 
-* [nf-core pangenome](https://github.com/nf-core/pangenome) [Paper](https://doi.org/10.1093/bioinformatics/btae609) A scalable Nextflow approach to building pangenomes with PGGB with visualization by odgi. :rocket:
+* [nf-core pangenome](https://github.com/nf-core/pangenome) ([paper](https://doi.org/10.1093/bioinformatics/btae609)) A scalable Nextflow approach to building pangenomes with PGGB with visualization by odgi. :rocket:
 * [pangepop](https://forgemia.inra.fr/pangepop/pangepop) A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe
 
 # Annotating pangenomes
-* [GrAnnoT](https://forge.ird.fr/diade/dynadiv/grannot) and [preprint](https://www.biorxiv.org/content/10.1101/2025.02.26.640337v1) Transfer linear genomic annotations through a pangenome GFA graph
-* [Annotation_scripts](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) and [preprint](https://www.biorxiv.org/content/10.1101/2024.10.12.618009v1) Annotate a minigraph-cactus pangenome with regions or SNPs
+* [GrAnnoT](https://forge.ird.fr/diade/dynadiv/grannot) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.26.640337v1)) Transfer linear genomic annotations through a pangenome GFA graph
+* [Annotation_scripts](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) ([preprint](https://www.biorxiv.org/content/10.1101/2024.10.12.618009v1)) Annotate a minigraph-cactus pangenome with regions or SNPs
 
 
 # Short read alignment to a pangenome graph
@@ -58,7 +68,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Hisat2](https://github.com/DaehwanKimLab/hisat2)
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
-
 
 
 # Long read alignment to a pangenome graph
@@ -86,7 +95,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) [preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
 * [Ctyper](https://github.com/ChaissonLab/Ctyper) Allele-specific and copy number specific genotyping using pangenomes
 * [rs-gfa-utils](https://github.com/chfi/rs-gfa-utils) Rust utils for GFA format operations including ultrabubble (SV) to VCF, GAF to PAF, subgraphs etc
-
+* [BayesTyper](https://github.com/bioinformatics-centre/BayesTyper) ([paper](https://pubmed.ncbi.nlm.nih.gov/29915429/)) Accurate genotyping across variant classes and lengths using variant graphs
 
 
 # Transcriptome analysis
@@ -103,6 +112,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 # Repeat analysis
 
 * [Pantera](https://github.com/piosierra/pantera) Identification of transposon element families from a set of pangenomes
+* [GraffeTE](https://github.com/cgroza/GraffiTE) ([paper](https://www.nature.com/articles/s41467-024-53294-2)) A unified framework to analyze transposable element insertion polymorphisms using graph genomes
+
 
 # Metagenome analysis
 
@@ -130,8 +141,9 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gfaviz](https://github.com/ggonnella/gfaviz) Graphical interactive tool for the visualization of sequence graphs in GFA format
 * [AGB](https://github.com/almiheenko/AGB) Interactive assembly graph browser
 * [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/) Web based viewer for small to medium GFA files
-* [JBrowse 2](https://jbrowse.org) Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs (https://github.com/cmdcolin/jbrowse-plugin-mafviewer)
+* [JBrowse 2](https://jbrowse.org) Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs. [GitHub](https://github.com/cmdcolin/jbrowse-plugin-mafviewer)
 * [strangepg](https://github.com/qwx9/strangepg) A modern GFA viewer and alternative to the Bandage tool
+
 
 # Pangenome viewers -static
 
@@ -139,23 +151,28 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [odgi](https://github.com/pangenome/odgi) - generates static images :rocket:
 * [plotsr](https://github.com/schneebergerlab/plotsr) - generates static images
 
+
 # Graph quality assessment
 
-* [PG-SCunK](https://github.com/cumtr/PG-SCUnK/) [preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1) - assess graph representation quality using unique kmers from source genomes
+* [PG-SCunK](https://github.com/cumtr/PG-SCUnK/) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1)) - assess graph representation quality using unique kmers from source genomes
+* [Panacus](https://github.com/marschall-lab/panacus) ([paper](https://academic.oup.com/bioinformatics/article/40/12/btae720/7914008)) Panacus: fast and exact pangenome growth and core size estimation
 
 
 # Bridging pangenomes and statistics
 * [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
+
 
 # Graph validation tools
 
 * [vg validate](https://github.com/vgteam/vg)
 * [odgi validate](https://github.com/pangenome/odgi)
 
+
 # Pangenome comparison
 
 * [junctions](https://github.com/urbanslug/junctions) Pangenome comparison using elastic-degenerate strings.
 * [rs-pancat-compare](https://github.com/dubssieg/rs-pancat-compare) Pairwise pangenome graph comparison by the computation of a segmentation edit distance.
+
 
 # Pangenome tools for microbes
 
@@ -167,7 +184,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [GFA](http://gfa-spec.github.io/GFA-spec/GFA1.html) An assembly interchange format read by both vg and odgi :rocket:
 * [odgi](https://github.com/pangenome/odgi) Easy interconversion to main interchange format GFA. :rocket:
 * [rGFA](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md) An extended GFA format, rGFA contains extra tags and includes a reference sequence. See minigraph.
-* [vg](https://github.com/vgteam/vg) Vg has it's own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam
+* [vg](https://github.com/vgteam/vg) Vg has its own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam
 * [PanSN-spec](https://github.com/pangenome/PanSN-spec) A naming system for haplotypes in pangenomes.
 * [GAF - Graph Alignment Format](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) Created by minigraph, convertible by vg. Similar to PAF.
 * [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) and [here](https://github.com/vgteam/libvgio/blob/master/deps/vg.proto#L38-L54) Created by vg giraffe. May be superseded by GAF format.
@@ -185,11 +202,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [palss](https://github.com/ldenti/palss) Augment a pangenome graph with unassembled long reads.
 
 
-# kmer based approaches
-
-* [PanKmer](https://gitlab.com/salk-tm/pankmer)
-
-
 # Libraries to explore pangenomes
 
 * [gfapy](https://github.com/ggonnella/gfapy) implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python.
@@ -200,10 +212,12 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 * [INRA_pangenomes:tutorial](https://pangenome-hackathon-genotoul-bioinfo-11d6d4f47ac33734abfa2a1377.pages.mia.inra.fr/pages/tutorial_pangenome_graph/) 2024 - Nice pangenome glossary and tutorial
 
+
 # Other lists of pangenome tools
 
 * [Practical Pangenome Graphs](https://pangenome.github.io/)
 * [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/) - specifically tools tagged with [Graph](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&tag=Graph) and or [Pangenome](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&tag=Pangenome)
+
 
 # Contributions
 
