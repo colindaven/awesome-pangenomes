@@ -124,6 +124,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 # Pangenome viewers -interactive
 
 * [Bandage](https://github.com/rrwick/Bandage) Visualize GFA files in an interactive standalone app :rocket:
+    * [BandageNG](https://github.com/asl/BandageNG) Fork of Bandage that allows you to select and color paths and walks in the graph
 * [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) Elegant path visualization for smaller regions of a pangenome from the vg team :rocket:
 * [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. :rocket:
 * [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence/absence of genes. :rocket:
