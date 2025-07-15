@@ -89,15 +89,15 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Paragraph](https://github.com/Illumina/paragraph) A suite of graph-based genotyping tools for short read data
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
 * [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
-* [Varigraph](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1) [Preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1) A pangenome graph based genotyper for diploid and polyploid genomes
+* [Varigraph](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1)) A pangenome graph based genotyper for diploid and polyploid genomes
 * [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
 * [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a GFA format pangenome.
 * [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
-* [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) [preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
+* [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) ([preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1)) A genotyper using low coverage short or long reads for haploid pangenomes, requires Gurobi license.
 * [Ctyper](https://github.com/ChaissonLab/Ctyper) Allele-specific and copy number specific genotyping using pangenomes
 * [rs-gfa-utils](https://github.com/chfi/rs-gfa-utils) Rust utils for GFA format operations including ultrabubble (SV) to VCF, GAF to PAF, subgraphs etc
 * [BayesTyper](https://github.com/bioinformatics-centre/BayesTyper) ([paper](https://pubmed.ncbi.nlm.nih.gov/29915429/)) Accurate genotyping across variant classes and lengths using variant graphs
-* [Swave](https://github.com/songbowang125/Swave) ([Preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract)) Detect SVs from a (minigraph) pangenome graph (free for non-commercial use)
+* [Swave](https://github.com/songbowang125/Swave) ([preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract)) Detect SVs from a (minigraph) pangenome graph (free for non-commercial use)
 
 
 # Transcriptome analysis
