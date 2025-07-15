@@ -97,7 +97,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Ctyper](https://github.com/ChaissonLab/Ctyper) Allele-specific and copy number specific genotyping using pangenomes
 * [rs-gfa-utils](https://github.com/chfi/rs-gfa-utils) Rust utils for GFA format operations including ultrabubble (SV) to VCF, GAF to PAF, subgraphs etc
 * [BayesTyper](https://github.com/bioinformatics-centre/BayesTyper) ([paper](https://pubmed.ncbi.nlm.nih.gov/29915429/)) Accurate genotyping across variant classes and lengths using variant graphs
-* [Swave](https://github.com/songbowang125/Swave) [Preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract) Detect SVs from a (minigraph) pangenome graph (free for non-commercial use)
+* [Swave](https://github.com/songbowang125/Swave) ([Preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract)) Detect SVs from a (minigraph) pangenome graph (free for non-commercial use)
 
 
 # Transcriptome analysis
