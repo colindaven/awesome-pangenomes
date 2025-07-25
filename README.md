@@ -17,7 +17,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gfakluge](https://github.com/edawson/gfakluge) Toolkit and c++ API for GFA manipulation
 * [gfatools](https://github.com/lh3/gfatools) Toolkit for GFA parsing and conversion
 * [gretl](https://github.com/MoinSebi/gretl) ([paper](https://github.com/MoinSebi/gretl)) Statistics and analysis for GFA files, written in Rust
-* [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Took Kit, output of this process is not a GFA file.
+* [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Toolkit, output of this process is not a GFA file.
+* [GraSuite](https://forge.ird.fr/diade/GraSuite) A suite of tools for GFA pangenomes and graph manipulation and pangenome.
 
 
 # Pangenome construction
