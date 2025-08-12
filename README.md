@@ -90,7 +90,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Paragraph](https://github.com/Illumina/paragraph) A suite of graph-based genotyping tools for short read data
 * [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
 * [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
-* [Varigraph](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1)) A pangenome graph based genotyper for diploid and polyploid genomes
+* [Varigraph](https://github.com/JiaoLab2021/varigraph) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1)) A pangenome graph based genotyper for diploid and polyploid genomes
 * [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
 * [SVarp](https://github.com/asylvz/SVarp) Use long reads to detect structural variants in a GFA format pangenome.
 * [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) A tool for detecting Bubbles and Superbubbles
