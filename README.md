@@ -5,7 +5,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 :rocket: indicates a popular repository
 
-# Summary
+## Contents
 - [Important blog posts](#important-blog-posts)
 - [Pangenome construction](#pangenome-construction)
 - [Pangenome construction with De Bruijn graphs](#pangenome-construction-with-de-bruijn-graphs)
