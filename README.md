@@ -5,6 +5,29 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 :rocket: indicates a popular repository
 
+# Summary
+- [Important blog posts](#important-blog-posts)
+- [Pangenome construction](#pangenome-construction)
+- [Pangenome construction with De Bruijn graphs](#pangenome-construction-with-de-bruijn-graphs)
+- [Pangenome pipelines](#pangenome-pipelines)
+- [Annotating pangenomes](#annotating-pangenomes)
+- [Short read alignment to a pangenome graph](#short-read-alignment-to-a-pangenome-graph)
+- [Long read alignment to a pangenome graph](#long-read-alignment-to-a-pangenome-graph)
+- [SNP and Structural Variant callers and genotypers](#snp-and-structural-variant-callers-and-genotypers)
+- [Transcriptome analysis](#transcriptome-analysis)
+- [Methylation analysis](#methylation-analysis)
+- [Pangenome viewers -interactive](#Pangenome-viewers--interactive)
+- [Pangenome viewers -static](#Pangenome-viewers--static)
+- [Graph analysis and quality assessment](#graph-analysis-and-quality-assessment)
+- [Graph validation tools](#graph-validation-tools)
+- [Pangenome comparison](#pangenome-comparison)
+- [Pangenome tools for microbes](#pangenome-tools-for-microbes)
+- [File formats](#file-formats)
+- [Miscellaneous tools](#miscellaneous-tools)
+- [Libraries to explore pangenomes](#libraries-to-explore-pangenomes)
+- [Tutorials](#tutorials)
+- [Other lists of pangenome tools](#other-lists-of-pangenome-tools) 
+
 # Important blog posts
 
 * [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA formats and approaches - *important and frequently overlooked* 
@@ -46,7 +69,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [PanKmer](https://gitlab.com/salk-tm/pankmer) ([paper](https://academic.oup.com/bioinformatics/article/39/10/btad621/7319363)) PanKmer: k-mer-based and reference-free pangenome analysis
 
 
-# Pangenomes construction with De Bruijn graphs 
+# Pangenome construction with De Bruijn graphs
 * [Bifrost](https://github.com/pmelsted/bifrost) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02135-8)) Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs
 * [TwoPaCo](https://github.com/medvedevgroup/TwoPaCo) ([paper](https://academic.oup.com/bioinformatics/article/33/24/4024/2725383)) TwoPaCo: an efficient algorithm to build the compacted de Bruijn graph from many complete genomes
 * [Nexus](https://github.com/biointec/nexus ) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05531-6)) Pan-genome de Bruijn graph using the bidirectional FM-index
@@ -83,7 +106,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 
 
-# SNP and Structural Variant (SV) callers and genotypers
+# SNP and Structural Variant callers and genotypers
 
 * [vg call](https://github.com/vgteam/vg) Variant caller for pangenomes, with gam or GAF output :rocket:
 * [vg surject](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc :rocket:
@@ -164,9 +187,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Pansel]([pansel](https://github.com/mzytnicki/pansel)) Find overdiverse or underdiverse regions in a GFA pangenome.
 
 
-# Bridging pangenomes and statistics
-* [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
-
 
 # Graph validation tools
 
@@ -206,6 +226,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [pollen](https://github.com/cucapra/pollen) A nascent project to develop faster tools for pangenomics in python and Rust. Contains MyGFA, FlatGFA and slow_odgi.
 * [mumemto](https://github.com/vikshiv/mumemto) Use maximal unique matches to analyze and statically visualize a set of fasta sequences.
 * [palss](https://github.com/ldenti/palss) Augment a pangenome graph with unassembled long reads.
+* [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
 
 
 # Libraries to explore pangenomes
