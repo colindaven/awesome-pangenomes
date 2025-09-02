@@ -67,6 +67,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Panscan](https://github.com/CATG-Github/panscan) Construct a matrix and identify novel sequences, SVs, and repetitive regions. Requires Gencode GFF3s. Human orientated.
 * [CoreDetector](https://github.com/mfruzan/CoreDetector) ([paper](https://academic.oup.com/bioinformatics/article/39/11/btad628/7329718)) CoreDetector: a flexible and efficient program for core-genome alignment of evolutionary diverse genomes
 * [PanKmer](https://gitlab.com/salk-tm/pankmer) ([paper](https://academic.oup.com/bioinformatics/article/39/10/btad621/7319363)) PanKmer: k-mer-based and reference-free pangenome analysis
+* [Panaln](https://github.com/Lilu-guo/Panaln) Pangenome construction and read alignment
 
 
 # Pangenome construction with De Bruijn graphs
@@ -93,6 +94,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Hisat2](https://github.com/DaehwanKimLab/hisat2)
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
+* [Panaln](https://github.com/Lilu-guo/Panaln) Pangenome construction and read alignment
 
 
 # Long read alignment to a pangenome graph
