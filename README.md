@@ -68,6 +68,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [CoreDetector](https://github.com/mfruzan/CoreDetector) ([paper](https://academic.oup.com/bioinformatics/article/39/11/btad628/7329718)) CoreDetector: a flexible and efficient program for core-genome alignment of evolutionary diverse genomes
 * [PanKmer](https://gitlab.com/salk-tm/pankmer) ([paper](https://academic.oup.com/bioinformatics/article/39/10/btad621/7319363)) PanKmer: k-mer-based and reference-free pangenome analysis
 * [Panaln](https://github.com/Lilu-guo/Panaln) Pangenome construction and read alignment
+* [AlfaPang](https://github.com/AdamCicherski/AlfaPang) ([paper](https://almob.biomedcentral.com/articles/10.1186/s13015-025-00277-7)) alignment free algorithm for pangenome graph construction
 
 
 # Pangenome construction with De Bruijn graphs
@@ -227,7 +228,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [ropebwt3](https://github.com/lh3/ropebwt3) Can construct and align sequences against huge TB scale references and retrieve haplotypes.
 * [pollen](https://github.com/cucapra/pollen) A nascent project to develop faster tools for pangenomics in python and Rust. Contains MyGFA, FlatGFA and slow_odgi.
 * [mumemto](https://github.com/vikshiv/mumemto) Use maximal unique matches to analyze and statically visualize a set of fasta sequences.
-* [palss](https://github.com/ldenti/palss) Augment a pangenome graph with unassembled long reads.
 * [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
 
 
