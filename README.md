@@ -187,7 +187,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 * [PG-SCunK](https://github.com/cumtr/PG-SCUnK/) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1)) - assess graph representation quality using unique kmers from source genomes
 * [Panacus](https://github.com/marschall-lab/panacus) ([paper](https://academic.oup.com/bioinformatics/article/40/12/btae720/7914008)) Panacus: fast and exact pangenome growth and core size estimation
-* [Pansel]([pansel](https://github.com/mzytnicki/pansel)) Find overdiverse or underdiverse regions in a GFA pangenome.
+* [Pansel](https://github.com/mzytnicki/pansel)) Find overdiverse or underdiverse regions in a GFA pangenome.
 
 
 
