@@ -25,7 +25,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 - [File formats](#file-formats)
 - [Miscellaneous tools](#miscellaneous-tools)
 - [Libraries to explore pangenomes](#libraries-to-explore-pangenomes)
-- [Tutorials](#tutorials)
+- [Tutorials_and_reviews](#tutorials-and-reviews)
 - [Other lists of pangenome tools](#other-lists-of-pangenome-tools) 
 
 # Important blog posts
@@ -234,13 +234,14 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Libraries to explore pangenomes
 
-* [gfapy](https://github.com/ggonnella/gfapy) implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python.
-* [gfagraphs](https://github.com/Tharos-ux/gfagraphs) implements rGFA and GFA1 parsing and editing of graphs in Python.
-* [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) a python package to read and analyze the PAF and the GFA files for the graphs.
+* [gfapy](https://github.com/ggonnella/gfapy) Implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python.
+* [gfagraphs](https://github.com/Tharos-ux/gfagraphs) Implements rGFA and GFA1 parsing and editing of graphs in Python.
+* [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) A python package to read and analyze the PAF and the GFA files for the graphs.
 
-# Tutorials
+# Tutorials and reviews
 
 * [INRA_pangenomes:tutorial](https://pangenome-hackathon-genotoul-bioinfo-11d6d4f47ac33734abfa2a1377.pages.mia.inra.fr/pages/tutorial_pangenome_graph/) 2024 - Nice pangenome glossary and tutorial
+* [Bao_2025](https://www.cambridge.org/core/journals/quantitative-plant-biology/article/complexity-welcome-pangenome-graphs-for-comprehensive-population-genomics/B2DD25F2FD0B4CB91D238DFD2257E7FA) A comprehensive 2025 review of pangenomics tools and challenges
 
 
 # Other lists of pangenome tools
