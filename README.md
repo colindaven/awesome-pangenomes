@@ -109,6 +109,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [PanAligner](https://github.com/at-cg/PanAligner) Align long reads to pangenomes
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 * [PALSS](https://github.com/ldenti/palss) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637057v1)) Pangenome Graph Augmentation from Long-reads Specific Strings
+* [SVPG](https://github.com/coopsor/SVPG) ([preprint](https://doi.org/10.1101/2025.07.11.664486)) Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data
 
 # SNP and Structural Variant callers and genotypers
 
