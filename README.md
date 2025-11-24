@@ -109,7 +109,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [PanAligner](https://github.com/at-cg/PanAligner) Align long reads to pangenomes
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 * [PALSS](https://github.com/ldenti/palss) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637057v1)) Pangenome Graph Augmentation from Long-reads Specific Strings
-* [SVPG](https://github.com/coopsor/SVPG) ([preprint](https://doi.org/10.1101/2025.07.11.664486)) Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data
 
 # SNP and Structural Variant callers and genotypers
 
@@ -129,6 +128,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Swave](https://github.com/songbowang125/Swave) ([preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract)) Detect SVs from a (minigraph) pangenome graph (free for non-commercial use)
 * [APAV](https://github.com/SJTU-CGM/APAV) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013288)) A pangenome PAV detection and visualization toolkit in Perl and R.
 * [PangenomeX](https://github.com/Nevermore233/PangenomeX) ([paper](https://academic.oup.com/bib/article/26/5/bbaf550/8293245?login=true)) Pangenome shallow CNV caller in python. Requires building and normalization.
+* [SVPG](https://github.com/coopsor/SVPG) ([preprint](https://doi.org/10.1101/2025.07.11.664486)) Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data
 
 # Transcriptome analysis
 
