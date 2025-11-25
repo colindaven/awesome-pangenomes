@@ -91,7 +91,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 # Short read alignment to a pangenome graph
 
 * [vg giraffe](https://github.com/vgteam/vg) Faster and more modern alternative to vg map :rocket:
-* [vg map](https://github.com/vgteam/vg) Original vg mapper (superseded by vg giraffe)
+* [vg map](https://github.com/vgteam/vg) Original but obsolete vg mapper (superseded by vg giraffe)
 * [Hisat2](https://github.com/DaehwanKimLab/hisat2)
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
@@ -101,7 +101,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 # Long read alignment to a pangenome graph
 
 * [GraphAligner](https://github.com/maickrau/GraphAligner) Fast long read graph aligner :rocket:
-* [vg giraffe](https://github.com/vgteam/vg) Vg giraffe can now align long reads to graphs as well
+* [vg giraffe](https://github.com/vgteam/vg) Vg giraffe can now align long reads to graphs :rocket:
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs 
 * [GraphChainer](https://github.com/algbio/GraphChainer) Built on codebase of GraphAligner
 * [Spades Pathracer](https://github.com/eodus/pathracer#sec4.3) Align long reads to genomic graphs
@@ -115,7 +115,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [vg call](https://github.com/vgteam/vg) Variant caller for pangenomes, with gam or GAF output :rocket:
 * [vg surject](https://github.com/vgteam/vg) surject to linear reference, then use linear SNP caller like Freebayes, Deepvariant etc :rocket:
 * [Paragraph](https://github.com/Illumina/paragraph) A suite of graph-based genotyping tools for short read data
-* [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Intended for human only (in 2023).
+* [Pangenie](https://github.com/eblerjana/pangenie) kmer-based SV genotyping using short reads. Chiefly intended for diploids
 * [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) Case study of deep variant SNP calling on vg giraffe aligned bam files
 * [Varigraph](https://github.com/JiaoLab2021/varigraph) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1)) A pangenome graph based genotyper for diploid and polyploid genomes
 * [GraphTyper](https://github.com/DecodeGenetics/graphtyper) A graph SV genotyper (does not call SVs)  
