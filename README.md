@@ -130,6 +130,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [PangenomeX](https://github.com/Nevermore233/PangenomeX) ([paper](https://academic.oup.com/bib/article/26/5/bbaf550/8293245?login=true)) Pangenome shallow CNV caller in python. Requires building and normalization.
 * [SVPG](https://github.com/coopsor/SVPG) ([preprint](https://doi.org/10.1101/2025.07.11.664486)) Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data
 * [Floco](https://github.com/hugocarmaga/floco) ([preprint](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1.abstract?%3Fcollection=)) Call individual node copy number on pangenome graphs using sequence-to-graph alignments (requires commercial gurobi license)
+* [DipGenie](https://github.com/gsc74/DipGenie) ([Preprint](https://doi.org/10.1101/2025.11.26.690754)) A tool for pangenome graph-based phased diploid genome inference.
 
 # Transcriptome analysis
 
