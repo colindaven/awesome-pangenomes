@@ -42,7 +42,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gretl](https://github.com/MoinSebi/gretl) ([paper](https://github.com/MoinSebi/gretl)) Statistics and analysis for GFA files, written in Rust
 * [pgr-tk](https://github.com/GeneDx/pgr-tk) A PanGenomic Research Toolkit, output of this process is not a GFA file.
 * [GraSuite](https://forge.ird.fr/diade/GraSuite) A suite of tools for GFA pangenomes and graph manipulation and pangenome.
-* [gratools](https://forge.ird.fr/diade/gratools) ([preprint](https://www.biorxiv.org/content/10.64898/2025.12.01.691558v1.abstract?%3Fcollection=)) Handle GFA genomes quickly, calculate coverage, extract subgraphs 
+* [gratools](https://forge.ird.fr/diade/gratools) ([preprint](https://www.biorxiv.org/content/10.64898/2025.12.01.691558v1.abstract?%3Fcollection=)) Handle GFA genomes quickly, calculate node depth coverage, extract subgraphs, etc
 
 
 # Pangenome construction
