@@ -77,7 +77,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [TwoPaCo](https://github.com/medvedevgroup/TwoPaCo) ([paper](https://academic.oup.com/bioinformatics/article/33/24/4024/2725383)) TwoPaCo: an efficient algorithm to build the compacted de Bruijn graph from many complete genomes
 * [Nexus](https://github.com/biointec/nexus ) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05531-6)) Pan-genome de Bruijn graph using the bidirectional FM-index
 * [Graphite](https://github.com/MGXlab/Graphite) ([paper](https://academic.oup.com/nargab/article/6/4/lqae142/7832412)) Graphite: painting genomes using a colored de Bruijn graph 
-
+* [BCALM 2](https://github.com/GATB/bcalm) ([paper](https://pubmed.ncbi.nlm.nih.gov/27307618/)) State-of-the-art ultra-low memory and fast de Bruijn graph construction from sequencing data, convertible to GFA.
 
 # Pangenome pipelines
 
@@ -235,7 +235,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [pollen](https://github.com/cucapra/pollen) A nascent project to develop faster tools for pangenomics in python and Rust. Contains MyGFA, FlatGFA and slow_odgi.
 * [mumemto](https://github.com/vikshiv/mumemto) Use maximal unique matches to analyze and statically visualize a set of fasta sequences.
 * [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
-
+* [vizitig](https://gitlab.inria.fr/vizisoft/vizitig) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.19.649656v1)) An all-in-one genomic and transcriptomic de Bruijn graph construction tool featuring annotation capabilities, an interactive web interface, and a command-line interface.
 
 # Libraries to explore pangenomes
 
