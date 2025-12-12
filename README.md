@@ -75,7 +75,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 # Pangenome construction with De Bruijn graphs
 * [Bifrost](https://github.com/pmelsted/bifrost) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02135-8)) Bifrost: highly parallel construction and indexing of colored and compacted de Bruijn graphs
 * [TwoPaCo](https://github.com/medvedevgroup/TwoPaCo) ([paper](https://academic.oup.com/bioinformatics/article/33/24/4024/2725383)) TwoPaCo: an efficient algorithm to build the compacted de Bruijn graph from many complete genomes
-* [Nexus](https://github.com/biointec/nexus ) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05531-6)) Pan-genome de Bruijn graph using the bidirectional FM-index
+* [Nexus](https://github.com/biointec/nexus ) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05531-6)) Pangenome de Bruijn graph construction using the bidirectional FM-index
 * [Graphite](https://github.com/MGXlab/Graphite) ([paper](https://academic.oup.com/nargab/article/6/4/lqae142/7832412)) Graphite: painting genomes using a colored de Bruijn graph 
 * [BCALM 2](https://github.com/GATB/bcalm) ([paper](https://pubmed.ncbi.nlm.nih.gov/27307618/)) State-of-the-art ultra-low memory and fast de Bruijn graph construction from sequencing data, convertible to GFA.
 
