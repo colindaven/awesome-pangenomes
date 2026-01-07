@@ -132,6 +132,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [SVPG](https://github.com/coopsor/SVPG) ([preprint](https://doi.org/10.1101/2025.07.11.664486)) Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data
 * [Floco](https://github.com/hugocarmaga/floco) ([preprint](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1.abstract?%3Fcollection=)) Call individual node copy number on pangenome graphs using sequence-to-graph alignments (requires commercial gurobi license)
 * [DipGenie](https://github.com/gsc74/DipGenie) ([Preprint](https://doi.org/10.1101/2025.11.26.690754)) A tool for pangenome graph-based phased diploid genome inference.
+* [Cosigt](https://github.com/davidebolo1993/cosigt) ([paper, see Figure 4 and Methods](https://www.nature.com/articles/s41586-024-07911-1#Sec5) Pangenome-based structural genotyping through haplotype deconvolution.
 
 # Transcriptome analysis
 
@@ -236,6 +237,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [mumemto](https://github.com/vikshiv/mumemto) Use maximal unique matches to analyze and statically visualize a set of fasta sequences.
 * [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
 * [vizitig](https://gitlab.inria.fr/vizisoft/vizitig) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.19.649656v1)) An all-in-one genomic and transcriptomic de Bruijn graph construction tool featuring annotation capabilities, an interactive web interface, and a command-line interface.
+* [gafpack](https://github.com/pangenome/gafpack) Calculate node coverage from GAF alignments to GFA variation graphs.
 
 # Libraries to explore pangenomes
 
