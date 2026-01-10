@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/608649460.svg)](https://doi.org/10.5281/zenodo.18208384)
+
 # awesome-pangenomes
 ## A list of software capable of analyzing mainly **eukaryotic** genomes for pangenomics. 
 
