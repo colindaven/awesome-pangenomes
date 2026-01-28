@@ -240,6 +240,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gfa2bin](https://github.com/MoinSebi/gfa2bin) Convert various pangenome formats to Plink format for GWAS
 * [vizitig](https://gitlab.inria.fr/vizisoft/vizitig) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.19.649656v1)) An all-in-one genomic and transcriptomic de Bruijn graph construction tool featuring annotation capabilities, an interactive web interface, and a command-line interface.
 * [gafpack](https://github.com/pangenome/gafpack) Calculate node coverage from GAF alignments to GFA variation graphs.
+* [TeraTools](https://github.com/ucfcbb/TeraTools) Efficient terabase scale pangenome analysis tools for large datasets
 
 # Libraries to explore pangenomes
 
