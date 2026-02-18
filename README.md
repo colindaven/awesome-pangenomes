@@ -99,7 +99,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
 * [Panaln](https://github.com/Lilu-guo/Panaln) Pangenome construction and read alignment
-* [theseus](https://github.com/albertjimenezbl/theseus-lib) A fast and optimal sequence to graph alignment library and non-production ready toolset
+* [theseus](https://github.com/albertjimenezbl/theseus-lib) (preprint)[https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1] A fast and optimal sequence to graph alignment library and non-production ready toolset
 
 
 # Long read alignment to a pangenome graph
@@ -248,7 +248,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gfapy](https://github.com/ggonnella/gfapy) Implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python.
 * [gfagraphs](https://github.com/Tharos-ux/gfagraphs) Implements rGFA and GFA1 parsing and editing of graphs in Python.
 * [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) A python package to read and analyze the PAF and the GFA files for the graphs.
-* [theseus](https://github.com/albertjimenezbl/theseus-lib) A fast and optimal sequence to graph alignment library and non-production ready toolset
+* [theseus](https://github.com/albertjimenezbl/theseus-lib) (preprint)[https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1] A fast and optimal sequence to graph alignment library and non-production ready toolset
 
 # Tutorials and reviews
 
