@@ -141,6 +141,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 * [pantas](https://github.com/AlgoLab/pantas) Haplotype aware differential quantification of alternative splicing events on spliced pangenome graphs
 * [rpvg](https://github.com/jonassibbesen/rpvg) Infer the expression of haplotype-specific transcript paths using RNA-seq reads aligned to a spliced pangenome graph
+* [PanGraphRNA](https://github.com/cma2015/PanGraphRNA) ([paper](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.70231)) A docker and galaxy based platform for graph pangenome-based RNA-seq analysis
 
 
 # Methylation analysis
