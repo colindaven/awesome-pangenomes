@@ -136,6 +136,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Floco](https://github.com/hugocarmaga/floco) ([preprint](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1.abstract?%3Fcollection=)) Call individual node copy number on pangenome graphs using sequence-to-graph alignments (requires commercial gurobi license)
 * [DipGenie](https://github.com/gsc74/DipGenie) ([Preprint](https://doi.org/10.1101/2025.11.26.690754)) A tool for pangenome graph-based phased diploid genome inference.
 * [Cosigt](https://github.com/davidebolo1993/cosigt) ([paper, see Figure 4 and Methods](https://www.nature.com/articles/s41586-024-07911-1#Sec5) Pangenome-based structural genotyping through haplotype deconvolution.
+*[Swave](https://github.com/songbowang125/Swave) ([paper](https://www.nature.com/articles/s41588-026-02538-6)) A sequence-to-image deep learning-based method that resolves both simple and complex SVs.
 
 # Transcriptome analysis
 
