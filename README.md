@@ -41,6 +41,7 @@ _Last updated: March 2026_
 - [Libraries to explore pangenomes](#libraries-to-explore-pangenomes)
 - [Tutorials and reviews](#tutorials-and-reviews)
 - [Other lists of pangenome tools](#other-lists-of-pangenome-tools)
+- [Ongoing projects](#ongoing-projects)
 
 ---
 
@@ -277,6 +278,12 @@ _Last updated: March 2026_
 
 - [Practical Pangenome Graphs](https://pangenome.github.io/)
 - [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/)
+
+---
+
+# Ongoing projects
+
+- [Human Pangenome Reference Consortium](https://humanpangenome.org/) — The Human Pangenome Reference Consortium (HPRC) is an NIH-funded project that aims to engage scientists and bioethicists in creating a human pangenome reference and resource that represents global human genomic variation 🆕✨
 
 ---
 
