@@ -174,6 +174,7 @@ _Last updated: March 2026_
 
 - [Pantera](https://github.com/piosierra/pantera) — transposable element family identification
 - [GraffeTE](https://github.com/cgroza/GraffiTE) — TE insertion polymorphism analysis
+- [PanGraphRNA](https://github.com/cma2015/PanGraphRNA) ([paper](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.70231)) — A docker and galaxy based platform for graph pangenome-based RNA-seq analysis
 
 ---
 
