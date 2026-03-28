@@ -6,9 +6,9 @@
 
 _Last updated: March 2026_
 
-🚀 : widely used or popular repository.
+🚀 : widely used or popular repository
 
-🆕✨ : new tool added 
+🆕✨ : new tool
 
 💤: unmaintained
 
