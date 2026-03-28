@@ -55,10 +55,10 @@ _Last updated: March 2026_
 
 # Toolkits
 
-- [odgi](https://github.com/pangenome/odgi) — fast toolkit for variation graphs (ODGI format) :rocket:
-- [vg](https://github.com/vgteam/vg) — comprehensive toolkit for graph construction, mapping, and variant calling :rocket:
-- [gaftools](https://github.com/marschall-lab/gaftools) — GAF (Graph Alignment Format) manipulation
-- [gfakluge](https://github.com/edawson/gfakluge) — GFA toolkit and C++ API
+- [odgi](https://github.com/pangenome/odgi)([paper](https://academic.oup.com/bioinformatics/article/38/13/3319/6585331)) — fast toolkit for variation graphs (ODGI format) :rocket:
+- [vg](https://github.com/vgteam/vg)([paper](https://www.nature.com/articles/nbt.4227)) — comprehensive toolkit for graph construction, mapping, and variant calling :rocket:
+- [gaftools](https://github.com/marschall-lab/gaftools)([paper](https://www.biorxiv.org/content/10.1101/2024.12.10.627813v1.full)) — GAF (Graph Alignment Format) manipulation
+- [gfakluge](https://github.com/edawson/gfakluge)([paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6751074)) — GFA toolkit and C++ API
 - [gfatools](https://github.com/lh3/gfatools) — GFA parsing and conversion
 - [gretl](https://github.com/MoinSebi/gretl) — statistics and analysis for GFA (Rust)
 - [pgr-tk](https://github.com/GeneDx/pgr-tk) — pangenomic toolkit (non-GFA output)
