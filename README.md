@@ -48,7 +48,8 @@ _Last updated: March 2026_
 # Important blog posts
 
 - [Untangling graphical pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) — explains differences between rGFA and GFA formats (*important and frequently overlooked*).
-- [On the definition of pangenome](https://lh3.github.io/2024/03/29/what-is-a-pangenome) — Overview of how the definition and usage of the pangenome concept have changed across fields and over time. 🆕✨
+- [On the definition of pangenome](https://lh3.github.io/2024/03/29/what-is-a-pangenome) — Overview of how the definition and usage of the pangenome concept have changed across fields and over time 🆕✨
+- [Terms and definitions](https://humanpangenome.org/definitions) — A list of terms and definition used in the context of the Human Pangenome Reference Consortium (HPRC) 🆕✨
 
 ---
 
