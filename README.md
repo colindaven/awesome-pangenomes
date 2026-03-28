@@ -58,8 +58,8 @@ _Last updated: March 2026_
 # Toolkits
 
 - [odgi](https://github.com/pangenome/odgi) ([paper](https://academic.oup.com/bioinformatics/article/38/13/3319/6585331)) — fast toolkit for variation graphs (ODGI format) :rocket:
-- [vg](https://github.com/vgteam/vg) ([paper](https://www.nature.com/articles/nbt.4227)) — comprehensive toolkit for graph construction, mapping, and variant calling :rocket:
-- [gaftools](https://github.com/marschall-lab/gaftools) ([paper](https://www.biorxiv.org/content/10.1101/2024.12.10.627813v1.full)) — GAF (Graph Alignment Format) manipulation
+- [vg](https://github.com/vgteam/vg) ([paper](https://www.nature.com/articles/nbt.4227)) — comprehensive toolkit for graph construction, mapping, and variant calling based on multiple formats. :rocket:
+- [gaftools](https://github.com/marschall-lab/gaftools) ([paper](https://www.biorxiv.org/content/10.1101/2024.12.10.627813v1.full)) — GAF (Graph Alignment Format) sorting and manipulation
 - [gfakluge](https://github.com/edawson/gfakluge) ([paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6751074)) — GFA toolkit and C++ API
 - [gfatools](https://github.com/lh3/gfatools) — GFA parsing and conversion
 - [gretl](https://github.com/MoinSebi/gretl) — statistics and analysis for GFA (Rust)
@@ -273,8 +273,8 @@ _Last updated: March 2026_
 
 # Tutorials and reviews
 
-- [INRA pangenome tutorial](https://pangenome-hackathon-genotoul-bioinfo-11d6d4f47ac33734abfa2a1377.pages.mia.inra.fr/pages/tutorial_pangenome_graph/)
-- [Bao 2025 review](https://www.cambridge.org/core/journals/quantitative-plant-biology/article/complexity-welcome-pangenome-graphs-for-comprehensive-population-genomics/B2DD25F2FD0B4CB91D238DFD2257E7FA)
+- [INRA pangenome tutorial](https://pangenome-hackathon-genotoul-bioinfo-11d6d4f47ac33734abfa2a1377.pages.mia.inra.fr/pages/tutorial_pangenome_graph/) — 2024 - Nice pangenome glossary and tutorial
+- [Bao 2025 review](https://www.cambridge.org/core/journals/quantitative-plant-biology/article/complexity-welcome-pangenome-graphs-for-comprehensive-population-genomics/B2DD25F2FD0B4CB91D238DFD2257E7FA) — A comprehensive 2025 review of pangenomics tools and challenges
 
 ---
 
@@ -293,4 +293,4 @@ _Last updated: March 2026_
 
 # Contributions
 
-Contributions are welcome. Submit pull requests to the main branch or open an issue with relevant resources.
+Is something missing? Contributions are welcome. Submit pull requests to the main branch or open an issue with relevant resources.
