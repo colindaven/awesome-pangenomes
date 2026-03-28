@@ -1,5 +1,7 @@
 # Awesome-pangenomes
 
+[![DOI](https://zenodo.org/badge/608649460.svg)](https://doi.org/10.5281/zenodo.18208384)
+
 > [!Note]
 > A curated list of software for pangenome analysis, primarily focused on **eukaryotic genomes**.
 > A new section for microbial genomes has also been added. These tools may not scale well to large genomes.
