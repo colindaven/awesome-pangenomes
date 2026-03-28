@@ -4,9 +4,15 @@
 > A curated list of software for pangenome analysis, primarily focused on **eukaryotic genomes**.
 > A new section for microbial genomes has also been added. These tools may not scale well to large genomes.
 
+_Last updated: March 2026_
+
 🚀 : widely used or popular repository.
 
 🆕✨ : new tool added 
+
+💤: unmaintained
+
+⚠️: outdated
 
 ---
 
