@@ -228,6 +228,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [PanSN-spec](https://github.com/pangenome/PanSN-spec) A naming system for haplotypes in pangenomes.
 * [GAF - Graph Alignment Format](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) Created by minigraph, convertible by vg. Similar to PAF.
 * [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) and [here](https://github.com/vgteam/libvgio/blob/master/deps/vg.proto#L38-L54) Created by vg giraffe. May be superseded by GAF format.
+* [pgbam](https://github.com/kokyriakidis/pgbam) Bridging BAM alignments and pangenomic graph GAF alignments.
+* [gbz-base](https://github.com/jltsiren/gbz-base) Pangenome file formats GBZ and GAF based on SQLite for interactive applications.
 
 
 # Miscellaneous tools
