@@ -168,7 +168,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) Elegant path visualization for smaller regions of a pangenome from the vg team :rocket:
 * [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. :rocket:
 * [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence/absence of genes. :rocket:
-* [Panagram](https://github.com/kjenike/panagram) Plots k-mer conservation
+* [Panagram](https://github.com/kjenike/panagram) Alignment-free pangenome browser and analysis toolkit, can plot k-mer conservation
 * [VAG](https://github.com/lipingfangs/VAG) Visualization of short sequence alignments in a pangenome
 * [Panache](https://github.com/SouthGreenPlatform/panache) View linearized pangenomes
 * [Waragraph](https://github.com/chfi/waragraph)
