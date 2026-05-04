@@ -268,4 +268,9 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Contributions
 
-Is something missing? Contributions are welcome, please make PRs to main or write an issue with a link.
+Is something missing? Contributions are welcome, please make PRs to main or write an issue with a link. 
+
+# Citations 
+
+This is not "published" in an academic journal, but you can cite it via the DOI at the top if you like.
+
