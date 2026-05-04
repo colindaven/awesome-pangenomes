@@ -192,6 +192,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [vg view](https://github.com/vgteam/vg) - generates static images from a vg compatible file
 * [odgi](https://github.com/pangenome/odgi) - can generate genome wide static images from an odgi or gfa file :rocket:
 * [plotsr](https://github.com/schneebergerlab/plotsr) - Plotsr generates high-quality visualisation of synteny and structural rearrangements between multiple linear genomes
+* [gfalook](https://github.com/pangenome/gfalook) - A 2026 reimplementation of odgi viz in rust with more features.
 
 
 # Graph analysis and quality assessment
