@@ -184,6 +184,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/) Web based viewer for small to medium GFA files
 * [JBrowse 2](https://jbrowse.org) Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs. [GitHub](https://github.com/cmdcolin/jbrowse-plugin-mafviewer)
 * [strangepg](https://github.com/qwx9/strangepg) A modern GFA viewer and alternative to the Bandage tool
+* [savanache](https://forge.ird.fr/diade/savanache/savanache/) ([preprint](https://www.biorxiv.org/content/10.64898/2026.05.05.722901v1)) A browser based viewer appropriate for GFA files from minigraph-cactus.
 
 
 
