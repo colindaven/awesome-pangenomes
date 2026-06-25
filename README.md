@@ -65,7 +65,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [poasta](https://github.com/broadinstitute/poasta) Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction
 * [SEQWISH](https://github.com/ekg/seqwish) ([paper](https://academic.oup.com/bioinformatics/article/39/1/btac743/6854971)) Unbiased pangenome graphs
 * [seqrush](https://github.com/pangenome/seqrush) Parallel pangenome construction using a simplified seqwish like algorithm.
-* [pannagram](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) Construct pangenomes and find SVs using blast, mafft and R tools
+* [pannagram](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) Construct pangenomes and find SVs using blast, mafft and R tools (do not confuse with panagram below)
 * [pandagma](https://github.com/legumeinfo/pandagma) Calculate pan-gene sets from a collection of genome assemblies and their annotations
 * [Panscan](https://github.com/CATG-Github/panscan) Construct a matrix and identify novel sequences, SVs, and repetitive regions. Requires Gencode GFF3s. Human orientated.
 * [CoreDetector](https://github.com/mfruzan/CoreDetector) ([paper](https://academic.oup.com/bioinformatics/article/39/11/btad628/7329718)) CoreDetector: a flexible and efficient program for core-genome alignment of evolutionary diverse genomes
@@ -169,7 +169,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) Elegant path visualization for smaller regions of a pangenome from the vg team :rocket:
 * [MoMI-G](https://github.com/MoMI-G/MoMI-G/) Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. :rocket:
 * [pangene](https://github.com/lh3/pangene) Pangene can visualize one protein set mapped to x genomes to check synteny and presence/absence of genes. :rocket:
-* [Panagram](https://github.com/kjenike/panagram) Alignment-free pangenome browser and analysis toolkit, can plot k-mer conservation
+* [Panagram](https://github.com/kjenike/panagram) Alignment-free pangenome browser and analysis toolkit, can analyze and plot k-mer conservation (do not confuse with pannagram above)
 * [VAG](https://github.com/lipingfangs/VAG) Visualization of short sequence alignments in a pangenome
 * [Panache](https://github.com/SouthGreenPlatform/panache) View linearized pangenomes
 * [Waragraph](https://github.com/chfi/waragraph)
