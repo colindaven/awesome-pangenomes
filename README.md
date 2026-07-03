@@ -32,7 +32,17 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Important blog posts
 
-* [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA formats and approaches - *important and frequently overlooked* 
+* (2014-2019) **Heng Li's Blog: The Birth of GFA and Pangenome Models** 
+  This series of posts serves as a modern history of the core problems and solutions in pangenomics. It documents the initial proposal of the Graphical Fragment Assembly (GFA) format and outlines the conceptual shift toward reference pan-genome models.
+  * [A proposal of the Graphical Fragment Assembly format](https://lh3.github.io/2014/07/19/a-proposal-of-the-grapical-fragment-assembly-format)
+  * [First update on GFA](https://lh3.github.io/2014/07/23/first-update-on-gfa)
+  * [On the graphical representation of sequences](https://lh3.github.io/2014/07/25/on-the-graphical-representation-of-sequences)
+  * [On a reference pan-genome model (Part I)](https://lh3.github.io/2019/07/08/on-a-reference-pan-genome-model)
+  * [On a reference pan-genome model (Part II)](https://lh3.github.io/2019/07/12/on-a-reference-pan-genome-model-part-ii)
+
+* (2019) [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA formats and approaches - *important and frequently overlooked* 
+
+* (2024) [On the definition of pangenome](https://lh3.github.io/2024/03/29/what-is-a-pangenome) In this post, Heng Li traces the definition of "pangenome" from its 2005 bacterial origins (focused on gene presence/absence) to its modern eukaryotic usage.
 
 # Toolkits
 
@@ -221,6 +231,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 * [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (Eukaryote too excepted annotation)
 * [Roary](https://github.com/sanger-pathogens/Roary) A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. 
+* [pandora](https://github.com/iqbal-lab-org/pandora) ([paper](https://link.springer.com/article/10.1186/s13059-021-02473-1)) Pan-genome graph structure and algorithms for identifying variants across the full bacterial pan-genome
 
 # File formats
 
@@ -255,7 +266,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [gfapy](https://github.com/ggonnella/gfapy) Implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python.
 * [gfagraphs](https://github.com/Tharos-ux/gfagraphs) Implements rGFA and GFA1 parsing and editing of graphs in Python.
 * [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) A python package to read and analyze the PAF and the GFA files for the graphs.
-* [theseus](https://github.com/albertjimenezbl/theseus-lib) (preprint)[https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1] A fast and optimal sequence to graph alignment library and non-production ready toolset
+* [theseus](https://github.com/albertjimenezbl/theseus-lib) ([preprint](https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1)) A fast and optimal sequence to graph alignment library and non-production ready toolset
 
 # Tutorials and reviews
 
