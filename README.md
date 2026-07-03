@@ -34,6 +34,9 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 * [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA formats and approaches - *important and frequently overlooked* 
 
+* [On the definition of pangenome](https://lh3.github.io/2024/03/29/what-is-a-pangenome)
+  In this post, Heng Li traces the definition of "pangenome" from its 2005 bacterial origins (focused on gene presence/absence) to its modern eukaryotic usage.
+
 # Toolkits
 
 * [odgi](https://github.com/pangenome/odgi) Fast toolkit based on odgi format :rocket:
