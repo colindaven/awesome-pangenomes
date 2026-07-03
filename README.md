@@ -221,6 +221,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 * [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (Eukaryote too excepted annotation)
 * [Roary](https://github.com/sanger-pathogens/Roary) A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. 
+* [pandora](https://github.com/iqbal-lab-org/pandora) ([paper](https://link.springer.com/article/10.1186/s13059-021-02473-1)) Pan-genome graph structure and algorithms for identifying variants across the full bacterial pan-genome
 
 # File formats
 
