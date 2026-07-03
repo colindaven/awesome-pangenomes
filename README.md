@@ -32,6 +32,14 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Important blog posts
 
+* **Heng Li's Blog: The Birth of GFA and Pangenome Models** 
+  This series of posts serves as a modern history of the core problems and solutions in pangenomics. It documents the initial proposal of the Graphical Fragment Assembly (GFA) format and outlines the conceptual shift toward reference pan-genome models.
+  * [A proposal of the Graphical Fragment Assembly format](https://lh3.github.io/2014/07/19/a-proposal-of-the-grapical-fragment-assembly-format)
+  * [First update on GFA](https://lh3.github.io/2014/07/23/first-update-on-gfa)
+  * [On the graphical representation of sequences](https://lh3.github.io/2014/07/25/on-the-graphical-representation-of-sequences)
+  * [On a reference pan-genome model (Part I)](https://lh3.github.io/2019/07/08/on-a-reference-pan-genome-model)
+  * [On a reference pan-genome model (Part II)](https://lh3.github.io/2019/07/12/on-a-reference-pan-genome-model-part-ii)
+
 * [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA formats and approaches - *important and frequently overlooked* 
 
 * [On the definition of pangenome](https://lh3.github.io/2024/03/29/what-is-a-pangenome)
