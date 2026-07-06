@@ -229,8 +229,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Pangenome tools for microbes
 
-* [Panalyze](https://github.com/downingtim/Panalyze) ([paper](https://doi.org/10.1093/bioadv/vbag071)) Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualization, Manipulation and Analysis (Works for bacterial or any shorter sequences too)
-* [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (Eukaryote too excepted annotation)
+* [Panalyze](https://github.com/downingtim/Panalyze) ([paper](https://doi.org/10.1093/bioadv/vbag071)) Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualisation, Manipulation and Analysis (Works for bacterial or any shorter sequences too)
+* [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (can be used for eukaryotes too except for annotation)
 * [Roary](https://github.com/sanger-pathogens/Roary) A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. 
 * [pandora](https://github.com/iqbal-lab-org/pandora) ([paper](https://link.springer.com/article/10.1186/s13059-021-02473-1)) Pan-genome graph structure and algorithms for identifying variants across the full bacterial pan-genome
 
@@ -240,7 +240,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [odgi](https://github.com/pangenome/odgi) Easy interconversion to main interchange format GFA. :rocket:
 * [rGFA](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md) An extended GFA format, rGFA contains extra tags and includes a reference sequence. See minigraph.
 * [vg](https://github.com/vgteam/vg) Vg has its own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam
-* [PanSN-spec](https://github.com/pangenome/PanSN-spec) A naming system for haplotypes in pangenomes.
+* [PanSN-spec](https://github.com/pangenome/PanSN-spec) A naming system for haplotypes in pangenomes. :rocket:
 * [GAF - Graph Alignment Format](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) Created by minigraph, convertible by vg. Similar to PAF.
 * [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) and [here](https://github.com/vgteam/libvgio/blob/master/deps/vg.proto#L38-L54) Created by vg giraffe. May be superseded by GAF format.
 * [pgbam](https://github.com/kokyriakidis/pgbam) Bridging BAM alignments and pangenomic graph GAF alignments.
