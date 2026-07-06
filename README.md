@@ -229,7 +229,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 # Pangenome tools for microbes
 
-* [Panalyze](https://github.com/downingtim/Panalyze) Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualisation, Manipulation and Analysis (Works for bacterial or any shorter sequences too)
+* [Panalyze](https://github.com/downingtim/Panalyze) ([paper](https://doi.org/10.1093/bioadv/vbag071)) Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualization, Manipulation and Analysis (Works for bacterial or any shorter sequences too)
 * [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (Eukaryote too excepted annotation)
 * [Roary](https://github.com/sanger-pathogens/Roary) A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. 
 * [pandora](https://github.com/iqbal-lab-org/pandora) ([paper](https://link.springer.com/article/10.1186/s13059-021-02473-1)) Pan-genome graph structure and algorithms for identifying variants across the full bacterial pan-genome
