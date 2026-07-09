@@ -56,32 +56,32 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [gretl](https://github.com/MoinSebi/gretl) | [GitHub](https://github.com/MoinSebi/gretl) ([paper](https://github.com/MoinSebi/gretl)) | Statistics and analysis for GFA files, written in Rust | |
 | [pgr-tk](https://github.com/GeneDx/pgr-tk) | [GitHub](https://github.com/GeneDx/pgr-tk) | A PanGenomic Research Toolkit, output of this process is not a GFA file. | |
 | [GraSuite](https://forge.ird.fr/diade/GraSuite) | [Forge](https://forge.ird.fr/diade/GraSuite) | A suite of tools for GFA pangenomes and graph manipulation and pangenome. | |
-| [gratools](https://forge.ird.fr/diade/gratools) | [Forge](https://forge.ird.fr/diade/gratools) ([preprint](https://www.biorxiv.org/content/10.64898/2025.12.01.691558v1.abstract?%3Fcollection=)) | Handle GFA genomes quickly, calculate node dept[...] | |
+| [gratools](https://forge.ird.fr/diade/gratools) | [Forge](https://forge.ird.fr/diade/gratools) ([preprint](https://www.biorxiv.org/content/10.64898/2025.12.01.691558v1.abstract?%3Fcollection=)) | Handle GFA genomes quickly, calculate node depth and other operations | |
 
 # Pangenome construction
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
 | [Minigraph](https://github.com/lh3/minigraph) | [GitHub](https://github.com/lh3/minigraph) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02168-z)) | Fast method by Heng Li, produces referenceGFA (rGFA) format | |
-| [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) | [GitHub](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) ([paper](https://www.nature[...])) | Cactus-based pangenome construction | :rocket: |
+| [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) | [GitHub](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) ([paper](https://www.nature.com/articles/s41592-023-01896-0)) | Cactus-based pangenome construction | |
 | [PGGB](https://github.com/pangenome/pggb) | [GitHub](https://github.com/pangenome/pggb) ([paper](https://www.nature.com/articles/s41592-024-02430-3)) | Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. | :rocket: |
-| [pangene](https://github.com/lh3/pangene) | [GitHub](https://github.com/lh3/pangene) ([paper](https://academic.oup.com/bioinformatics/article/40/7/btae456/7718494?login=true)) | Pangene constructs a pangenome gene graph from one protein se[...] | |
+| [pangene](https://github.com/lh3/pangene) | [GitHub](https://github.com/lh3/pangene) ([paper](https://academic.oup.com/bioinformatics/article/40/7/btae456/7718494?login=true)) | Pangene constructs a pangenome gene graph from one protein sequence | |
 | [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) | [Git](https://git.wur.nl/bioinformatics/pantools) ([paper](https://academic.oup.com/bioinformatics/article-abstract/38/18/4403/6647839)) | Fully featured construction of pangenome graphs | |
 | [PSVCP](https://github.com/wjian8/psvcp_v1.01) | [GitHub](https://github.com/wjian8/psvcp_v1.01) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02861-9)) | Add PAV to the linear genome to construct a pangenome. | |
 | [PHG Practical Haplotype Graph](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home) | [Bitbucket](https://bitbucket.org/bucklerlab/practicalhaplotypegraph/wiki/Home) ([paper](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20009)) | Practical Haplotype Graph | |
 | [PATO](https://github.com/irycisBioinfo/PATO) | [GitHub](https://github.com/irycisBioinfo/PATO) ([paper](https://academic.oup.com/bioinformatics/article/37/23/4564/6384566)) | R package for pangenome construction | |
-| [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) | [GitHub](https://github.com/gaojunxuan/chrom_mini_graph) ([poster](https://www.cs.toronto.edu/~kgao/assets/pdf/CMG-Poster.pdf)) | Generate and map reads onto a coloured minimizer pangeno[...] | |
-| [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) | [GitHub](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03071-z)) | Perl scripts used by the Ense[...] | |
+| [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) | [GitHub](https://github.com/gaojunxuan/chrom_mini_graph) ([poster](https://www.cs.toronto.edu/~kgao/assets/pdf/CMG-Poster.pdf)) | Generate and map reads onto a coloured minimizer pangenome graph | |
+| [GET_PANGENES](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) | [GitHub](https://github.com/Ensembl/plant-scripts/tree/master/pangenes) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03071-z)) | Perl scripts used by the Ensembl pangenome project | |
 | [impg](https://github.com/ekg/impg) | [GitHub](https://github.com/ekg/impg) | Create an implicit pangenome graph for a homologous target region, then use output bed files to extract sequences for PGGB etc. | |
-| [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) | [GitHub](https://github.com/LeilyR/Multi-genome-Reference) ([preprint](https://www.biorxiv.org/content/10.1101/2020.04.11.036871)) | An algorithm to Build a Multi-genome Reference (warning - l[...] | |
-| [MEMO](https://github.com/StephenHwang/MEMO) | [GitHub](https://github.com/StephenHwang/MEMO) ([preprint](https://www.biorxiv.org/content/10.1101/2024.05.20.595044)) | MEMO constructs a pangenome and index and allows kmer based conservation anal[...] | |
+| [MGRgraph](https://github.com/LeilyR/Multi-genome-Reference) | [GitHub](https://github.com/LeilyR/Multi-genome-Reference) ([preprint](https://www.biorxiv.org/content/10.1101/2020.04.11.036871)) | An algorithm to Build a Multi-genome Reference (warning - limited scalability) | |
+| [MEMO](https://github.com/StephenHwang/MEMO) | [GitHub](https://github.com/StephenHwang/MEMO) ([preprint](https://www.biorxiv.org/content/10.1101/2024.05.20.595044)) | MEMO constructs a pangenome and index and allows kmer based conservation analysis | |
 | [poasta](https://github.com/broadinstitute/poasta) | [GitHub](https://github.com/broadinstitute/poasta) | Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction | |
 | [SEQWISH](https://github.com/ekg/seqwish) | [GitHub](https://github.com/ekg/seqwish) ([paper](https://academic.oup.com/bioinformatics/article/39/1/btac743/6854971)) | Unbiased pangenome graphs | |
 | [seqrush](https://github.com/pangenome/seqrush) | [GitHub](https://github.com/pangenome/seqrush) | Parallel pangenome construction using a simplified seqwish like algorithm. | |
-| [pannagram](https://github.com/iganna/pannagram) | [GitHub](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) | Construct pangenomes and find SVs using blast, mafft and R tools (do not [...] | |
+| [pannagram](https://github.com/iganna/pannagram) | [GitHub](https://github.com/iganna/pannagram) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637071)) | Construct pangenomes and find SVs using blast, mafft and R tools (do not confuse with panagram) | |
 | [pandagma](https://github.com/legumeinfo/pandagma) | [GitHub](https://github.com/legumeinfo/pandagma) | Calculate pan-gene sets from a collection of genome assemblies and their annotations | |
 | [Panscan](https://github.com/CATG-Github/panscan) | [GitHub](https://github.com/CATG-Github/panscan) | Construct a matrix and identify novel sequences, SVs, and repetitive regions. Requires Gencode GFF3s. Human orientated. | |
-| [CoreDetector](https://github.com/mfruzan/CoreDetector) | [GitHub](https://github.com/mfruzan/CoreDetector) ([paper](https://academic.oup.com/bioinformatics/article/39/11/btad628/7329718)) | CoreDetector: a flexible and efficient program for core-g[...] | |
+| [CoreDetector](https://github.com/mfruzan/CoreDetector) | [GitHub](https://github.com/mfruzan/CoreDetector) ([paper](https://academic.oup.com/bioinformatics/article/39/11/btad628/7329718)) | CoreDetector: a flexible and efficient program for core-genome identification | |
 | [PanKmer](https://gitlab.com/salk-tm/pankmer) | [GitLab](https://gitlab.com/salk-tm/pankmer) ([paper](https://academic.oup.com/bioinformatics/article/39/10/btad621/7319363)) | PanKmer: k-mer-based and reference-free pangenome analysis | |
 | [Panaln](https://github.com/Lilu-guo/Panaln) | [GitHub](https://github.com/Lilu-guo/Panaln) | Pangenome construction and read alignment | |
 | [AlfaPang](https://github.com/AdamCicherski/AlfaPang) | [GitHub](https://github.com/AdamCicherski/AlfaPang) ([paper](https://almob.biomedcentral.com/articles/10.1186/s13015-025-00277-7)) | alignment free algorithm for pangenome graph construction | |
@@ -90,17 +90,17 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-| [Bifrost](https://github.com/pmelsted/bifrost) | [GitHub](https://github.com/pmelsted/bifrost) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02135-8)) | Bifrost: highly parallel construction and indexing of colore[...] | |
-| [TwoPaCo](https://github.com/medvedevgroup/TwoPaCo) | [GitHub](https://github.com/medvedevgroup/TwoPaCo) ([paper](https://academic.oup.com/bioinformatics/article/33/24/4024/2725383)) | TwoPaCo: an efficient algorithm to build the compacted de Bruijn[...] | |
-| [Nexus](https://github.com/biointec/nexus) | [GitHub](https://github.com/biointec/nexus) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05531-6)) | Pangenome de Bruijn graph construction using the bidirectio[...] | |
+| [Bifrost](https://github.com/pmelsted/bifrost) | [GitHub](https://github.com/pmelsted/bifrost) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02135-8)) | Bifrost: highly parallel construction and indexing of colored de Bruijn graphs | |
+| [TwoPaCo](https://github.com/medvedevgroup/TwoPaCo) | [GitHub](https://github.com/medvedevgroup/TwoPaCo) ([paper](https://academic.oup.com/bioinformatics/article/33/24/4024/2725383)) | TwoPaCo: an efficient algorithm to build the compacted de Bruijn graph | |
+| [Nexus](https://github.com/biointec/nexus) | [GitHub](https://github.com/biointec/nexus) ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05531-6)) | Pangenome de Bruijn graph construction using the bidirectional algorithm | |
 | [Graphite](https://github.com/MGXlab/Graphite) | [GitHub](https://github.com/MGXlab/Graphite) ([paper](https://academic.oup.com/nargab/article/6/4/lqae142/7832412)) | Graphite: painting genomes using a colored de Bruijn graph | |
-| [BCALM 2](https://github.com/GATB/bcalm) | [GitHub](https://github.com/GATB/bcalm) ([paper](https://pubmed.ncbi.nlm.nih.gov/27307618/)) | State-of-the-art ultra-low memory and fast de Bruijn graph construction from sequencing data, conver[...] | |
+| [BCALM 2](https://github.com/GATB/bcalm) | [GitHub](https://github.com/GATB/bcalm) ([paper](https://pubmed.ncbi.nlm.nih.gov/27307618/)) | State-of-the-art ultra-low memory and fast de Bruijn graph construction from sequencing data, convertible to GFA | |
 
 # Pangenome pipelines
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-| [nf-core pangenome](https://github.com/nf-core/pangenome) | [GitHub](https://github.com/nf-core/pangenome) ([paper](https://doi.org/10.1093/bioinformatics/btae609)) | A scalable Nextflow approach to building pangenomes with PGGB with visualizati[...] | |
+| [nf-core pangenome](https://github.com/nf-core/pangenome) | [GitHub](https://github.com/nf-core/pangenome) ([paper](https://doi.org/10.1093/bioinformatics/btae609)) | A scalable Nextflow approach to building pangenomes with PGGB with visualization | |
 | [pangepop](https://forgemia.inra.fr/pangepop/pangepop) | [Forgemia](https://forgemia.inra.fr/pangepop/pangepop) | A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe | |
 
 # Annotating pangenomes
@@ -108,7 +108,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
 | [GrAnnoT](https://forge.ird.fr/diade/dynadiv/grannot) | [Forge](https://forge.ird.fr/diade/dynadiv/grannot) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.26.640337v1)) | Transfer linear genomic annotations through a pangenome GFA graph | |
-| [Annotation_scripts](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) | [GitHub](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) ([preprint](https://www.biorxiv.org/content/10.1101/2024.10.12.618009v1)) | Annotate a minigraph-cactus pangen[...] | |
+| [Annotation_scripts](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) | [GitHub](https://github.com/jmonlong/manu-vggafannot/tree/main/analysis) ([preprint](https://www.biorxiv.org/content/10.1101/2024.10.12.618009v1)) | Annotate a minigraph-cactus pangenome | |
 
 # Short read alignment to a pangenome graph
 
@@ -116,11 +116,11 @@ A new section for microbial genomes has also been added, these tools may not sca
 |------|-----------|-------------|--------|
 | [vg giraffe](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | Faster and more modern alternative to vg map | :rocket: |
 | [vg map](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | Original but obsolete vg mapper (superseded by vg giraffe) | |
-| [Hisat2](https://github.com/DaehwanKimLab/hisat2) | [GitHub](https://github.com/DaehwanKimLab/hisat2) | | |
+| [Hisat2](https://github.com/DaehwanKimLab/hisat2) | [GitHub](https://github.com/DaehwanKimLab/hisat2) | Alignment to pangenome graphs | |
 | [Minigraph](https://github.com/lh3/minigraph) | [GitHub](https://github.com/lh3/minigraph) | Construct graphs or align short or long reads to graphs | |
 | [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) | [GitHub](https://github.com/gaojunxuan/chrom_mini_graph) | Generate and map reads onto a coloured minimizer pangenome graph | |
 | [Panaln](https://github.com/Lilu-guo/Panaln) | [GitHub](https://github.com/Lilu-guo/Panaln) | Pangenome construction and read alignment | |
-| [theseus](https://github.com/albertjimenezbl/theseus-lib) | [GitHub](https://github.com/albertjimenezbl/theseus-lib) ([preprint](https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1)) | A fast and optimal sequence to graph alignment library and non[...] | |
+| [theseus](https://github.com/albertjimenezbl/theseus-lib) | [GitHub](https://github.com/albertjimenezbl/theseus-lib) ([preprint](https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1)) | A fast and optimal sequence to graph alignment library and non-greedy implementation | |
 
 # Long read alignment to a pangenome graph
 
@@ -145,21 +145,21 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [Paragraph](https://github.com/Illumina/paragraph) | [GitHub](https://github.com/Illumina/paragraph) | A suite of graph-based genotyping tools for short read data | |
 | [Pangenie](https://github.com/eblerjana/pangenie) | [GitHub](https://github.com/eblerjana/pangenie) | kmer-based SV genotyping using short reads. Chiefly intended for diploids | |
 | [Deepvariant](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) | [GitHub](https://github.com/google/deepvariant/blob/r1.6/docs/deepvariant-vg-case-study.md) | Case study of deep variant SNP calling on vg giraffe aligned bam files | |
-| [Varigraph](https://github.com/JiaoLab2021/varigraph) | [GitHub](https://github.com/JiaoLab2021/varigraph) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1)) | A pangenome graph based genotyper for diploid and polyploid genom[...] | |
+| [Varigraph](https://github.com/JiaoLab2021/varigraph) | [GitHub](https://github.com/JiaoLab2021/varigraph) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.17.638628v1)) | A pangenome graph based genotyper for diploid and polyploid genomes | |
 | [GraphTyper](https://github.com/DecodeGenetics/graphtyper) | [GitHub](https://github.com/DecodeGenetics/graphtyper) | A graph SV genotyper (does not call SVs) | |
 | [SVarp](https://github.com/asylvz/SVarp) | [GitHub](https://github.com/asylvz/SVarp) | Use long reads to detect structural variants in a GFA format pangenome. | |
 | [bubblegun](https://github.com/fawaz-dabbaghieh/bubble_gun) | [GitHub](https://github.com/fawaz-dabbaghieh/bubble_gun) | A tool for detecting Bubbles and Superbubbles | |
-| [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) | [GitHub](https://github.com/at-cg/PHI) ([preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1)) | A genotyper using low coverage short or long re[...] | |
+| [PHI Pangenome-based Haplotype Inference](https://github.com/at-cg/PHI) | [GitHub](https://github.com/at-cg/PHI) ([preprint](https://www.biorxiv.org/content/10.1101/2024.10.27.620212v1)) | A genotyper using low coverage short or long reads | |
 | [Ctyper](https://github.com/ChaissonLab/Ctyper) | [GitHub](https://github.com/ChaissonLab/Ctyper) | Allele-specific and copy number specific genotyping using pangenomes | |
 | [rs-gfa-utils](https://github.com/chfi/rs-gfa-utils) | [GitHub](https://github.com/chfi/rs-gfa-utils) | Rust utils for GFA format operations including ultrabubble (SV) to VCF, GAF to PAF, subgraphs etc | |
-| [BayesTyper](https://github.com/bioinformatics-centre/BayesTyper) | [GitHub](https://github.com/bioinformatics-centre/BayesTyper) ([paper](https://pubmed.ncbi.nlm.nih.gov/29915429/)) | Accurate genotyping across variant classes and lengths using variant graph[...] | |
-| [Swave](https://github.com/songbowang125/Swave) | [GitHub](https://github.com/songbowang125/Swave) ([preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract)) | Detect SVs from a (minigraph) pangenome graph (free for non-co[...] | |
-| [APAV](https://github.com/SJTU-CGM/APAV) | [GitHub](https://github.com/SJTU-CGM/APAV) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013288)) | A pangenome PAV detection and visualization toolkit in Perl an[...] | |
-| [PangenomeX](https://github.com/Nevermore233/PangenomeX) | [GitHub](https://github.com/Nevermore233/PangenomeX) ([paper](https://academic.oup.com/bib/article/26/5/bbaf550/8293245?login=true)) | Pangenome shallow CNV caller in python. Requires buildin[...] | |
+| [BayesTyper](https://github.com/bioinformatics-centre/BayesTyper) | [GitHub](https://github.com/bioinformatics-centre/BayesTyper) ([paper](https://pubmed.ncbi.nlm.nih.gov/29915429/)) | Accurate genotyping across variant classes and lengths using variant graphs | |
+| [Swave](https://github.com/songbowang125/Swave) | [GitHub](https://github.com/songbowang125/Swave) ([preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract)) | Detect SVs from a (minigraph) pangenome graph (free for non-commercial use) | |
+| [APAV](https://github.com/SJTU-CGM/APAV) | [GitHub](https://github.com/SJTU-CGM/APAV) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013288)) | A pangenome PAV detection and visualization toolkit in Perl and Python | |
+| [PangenomeX](https://github.com/Nevermore233/PangenomeX) | [GitHub](https://github.com/Nevermore233/PangenomeX) ([paper](https://academic.oup.com/bib/article/26/5/bbaf550/8293245?login=true)) | Pangenome shallow CNV caller in python. Requires building indices | |
 | [SVPG](https://github.com/coopsor/SVPG) | [GitHub](https://github.com/coopsor/SVPG) ([preprint](https://doi.org/10.1101/2025.07.11.664486)) | Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data | |
-| [Floco](https://github.com/hugocarmaga/floco) | [GitHub](https://github.com/hugocarmaga/floco) ([preprint](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1.abstract?%3Fcollection=)) | Call individual node copy number on pangenome gra[...] | |
-| [DipGenie](https://github.com/gsc74/DipGenie) | [GitHub](https://github.com/gsc74/DipGenie) ([Preprint](https://doi.org/10.1101/2025.11.26.690754)) | Pangenome graph-based phased diploid genome inference. Like Pangenie, works on GFA input bu[...] | |
-| [Cosigt](https://github.com/davidebolo1993/cosigt) | [GitHub](https://github.com/davidebolo1993/cosigt) ([paper, see Figure 4 and Methods](https://www.nature.com/articles/s41586-024-07911-1#Sec5)) | Pangenome-based structural genotyping through hapl[...] | |
+| [Floco](https://github.com/hugocarmaga/floco) | [GitHub](https://github.com/hugocarmaga/floco) ([preprint](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1.abstract?%3Fcollection=)) | Call individual node copy number on pangenome graphs | |
+| [DipGenie](https://github.com/gsc74/DipGenie) | [GitHub](https://github.com/gsc74/DipGenie) ([Preprint](https://doi.org/10.1101/2025.11.26.690754)) | Pangenome graph-based phased diploid genome inference. Like Pangenie, works on GFA input but optimized for phased diploids | |
+| [Cosigt](https://github.com/davidebolo1993/cosigt) | [GitHub](https://github.com/davidebolo1993/cosigt) ([paper, see Figure 4 and Methods](https://www.nature.com/articles/s41586-024-07911-1#Sec5)) | Pangenome-based structural genotyping through haplotype inference | |
 | [giggles](https://github.com/samarendra-pani/giggles) | [GitHub](https://github.com/samarendra-pani/giggles) | Genotype Inference using Genome Graphs and long reads | |
 
 # Transcriptome analysis
@@ -168,7 +168,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 |------|-----------|-------------|--------|
 | [pantas](https://github.com/AlgoLab/pantas) | [GitHub](https://github.com/AlgoLab/pantas) | Haplotype aware differential quantification of alternative splicing events on spliced pangenome graphs | |
 | [rpvg](https://github.com/jonassibbesen/rpvg) | [GitHub](https://github.com/jonassibbesen/rpvg) | Infer the expression of haplotype-specific transcript paths using RNA-seq reads aligned to a spliced pangenome graph | |
-| [PanGraphRNA](https://github.com/cma2015/PanGraphRNA) | [GitHub](https://github.com/cma2015/PanGraphRNA) ([paper](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.70231)) | A docker and galaxy based platform for graph pangenome-based RNA-seq[...] | |
+| [PanGraphRNA](https://github.com/cma2015/PanGraphRNA) | [GitHub](https://github.com/cma2015/PanGraphRNA) ([paper](https://onlinelibrary.wiley.com/doi/full/10.1111/jipb.70231)) | A docker and galaxy based platform for graph pangenome-based RNA-seq analysis | |
 
 # Methylation analysis
 
@@ -181,7 +181,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
 | [Pantera](https://github.com/piosierra/pantera) | [GitHub](https://github.com/piosierra/pantera) | Identification of transposon element families from a set of pangenomes | |
-| [GraffeTE](https://github.com/cgroza/GraffiTE) | [GitHub](https://github.com/cgroza/GraffiTE) ([paper](https://www.nature.com/articles/s41467-024-53294-2)) | A unified framework to analyze transposable element insertion polymorphisms using gr[...] | |
+| [GraffeTE](https://github.com/cgroza/GraffiTE) | [GitHub](https://github.com/cgroza/GraffiTE) ([paper](https://www.nature.com/articles/s41467-024-53294-2)) | A unified framework to analyze transposable element insertion polymorphisms using graph-based methods | |
 
 # Metagenome analysis
 
@@ -201,7 +201,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [Panagram](https://github.com/kjenike/panagram) | [GitHub](https://github.com/kjenike/panagram) | Alignment-free pangenome browser and analysis toolkit, can analyze and plot k-mer conservation (do not confuse with pannagram above) | |
 | [VAG](https://github.com/lipingfangs/VAG) | [GitHub](https://github.com/lipingfangs/VAG) | Visualization of short sequence alignments in a pangenome | |
 | [Panache](https://github.com/SouthGreenPlatform/panache) | [GitHub](https://github.com/SouthGreenPlatform/panache) | View linearized pangenomes | |
-| [Waragraph](https://github.com/chfi/waragraph) | [GitHub](https://github.com/chfi/waragraph) | | |
+| [Waragraph](https://github.com/chfi/waragraph) | [GitHub](https://github.com/chfi/waragraph) | Pangenome graph visualization | |
 | [PanGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer) | [GitHub](https://github.com/TF-Chan-Lab/panGraphViewer) | Desktop and web versions. Based on cytoscape.js. Can get to chromosome coordinates, allows VCF input. | |
 | [Wally](https://github.com/tobiasrausch/wally#subcommand-gfa-visualization-of-pan-genome-graphs-work-in-progress) | [GitHub](https://github.com/tobiasrausch/wally#subcommand-gfa-visualization-of-pan-genome-graphs-work-in-progress) | View GFA (Work in progress 2023) | |
 | [VRPG](https://github.com/codeatcg/VRPG) | [GitHub](https://github.com/codeatcg/VRPG) | View rGFA or GFA, written in python and html | |
@@ -212,9 +212,9 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [gfaviz](https://github.com/ggonnella/gfaviz) | [GitHub](https://github.com/ggonnella/gfaviz) | Graphical interactive tool for the visualization of sequence graphs in GFA format | |
 | [AGB](https://github.com/almiheenko/AGB) | [GitHub](https://github.com/almiheenko/AGB) | Interactive assembly graph browser | |
 | [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/) | [Web](https://cmdcolin.github.io/graphgenomeviewer/) | Web based viewer for small to medium GFA files | |
-| [JBrowse 2](https://jbrowse.org) | [GitHub](https://github.com/cmdcolin/j[...]) / [Web](https://jbrowse.org) | Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs. | |
+| [JBrowse 2](https://jbrowse.org) | [GitHub](https://github.com/cmdcolin/jbrowse-components) / [Web](https://jbrowse.org) | Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs. | |
 | [strangepg](https://github.com/qwx9/strangepg) | [GitHub](https://github.com/qwx9/strangepg) | A modern GFA viewer and alternative to the Bandage tool | |
-| [savanache](https://forge.ird.fr/diade/savanache/savanache/) | [Forge](https://forge.ird.fr/diade/savanache/savanache/) ([preprint](https://www.biorxiv.org/content/10.64898/2026.05.05.722901v1)) | A browser based viewer appropriate for GFA files from min[...] | |
+| [savanache](https://forge.ird.fr/diade/savanache/savanache/) | [Forge](https://forge.ird.fr/diade/savanache/savanache/) ([preprint](https://www.biorxiv.org/content/10.64898/2026.05.05.722901v1)) | A browser based viewer appropriate for GFA files from minigraph-cactus | |
 
 # Pangenome viewers -static
 
@@ -229,16 +229,16 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-| [PG-SCunK](https://github.com/cumtr/PG-SCUnK/) | [GitHub](https://github.com/cumtr/PG-SCUnK/) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1)) | assess graph representation quality using unique kmers from source gen[...] | |
-| [Panacus](https://github.com/marschall-lab/panacus) | [GitHub](https://github.com/marschall-lab/panacus) ([paper](https://academic.oup.com/bioinformatics/article/40/12/btae720/7914008)) | Panacus: fast and exact pangenome growth and core size estim[...] | |
+| [PG-SCunK](https://github.com/cumtr/PG-SCUnK/) | [GitHub](https://github.com/cumtr/PG-SCUnK/) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.03.646777v1)) | assess graph representation quality using unique kmers from source genomes | |
+| [Panacus](https://github.com/marschall-lab/panacus) | [GitHub](https://github.com/marschall-lab/panacus) ([paper](https://academic.oup.com/bioinformatics/article/40/12/btae720/7914008)) | Panacus: fast and exact pangenome growth and core size estimation | |
 | [Pansel](https://github.com/mzytnicki/pansel) | [GitHub](https://github.com/mzytnicki/pansel)) | Find overdiverse or underdiverse regions in a GFA pangenome. | |
 
 # Graph validation tools
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-| [vg validate](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | | |
-| [odgi validate](https://github.com/pangenome/odgi) | [GitHub](https://github.com/pangenome/odgi) | | |
+| [vg validate](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | Validate vg graphs | |
+| [odgi validate](https://github.com/pangenome/odgi) | [GitHub](https://github.com/pangenome/odgi) | Validate odgi graphs | |
 
 # Pangenome comparison
 
@@ -251,10 +251,10 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-| [Panalyze](https://github.com/downingtim/Panalyze) | [GitHub](https://github.com/downingtim/Panalyze) ([paper](https://doi.org/10.1093/bioadv/vbag071)) | Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualisation, Mani[...] | |
+| [Panalyze](https://github.com/downingtim/Panalyze) | [GitHub](https://github.com/downingtim/Panalyze) ([paper](https://doi.org/10.1093/bioadv/vbag071)) | Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualisation, Manipulation | |
 | [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) | [Web](https://merenlab.org/2016/11/08/pangenomics-v2/) | Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (can be used for eukaryotes too except for annotation) | |
 | [Roary](https://github.com/sanger-pathogens/Roary) | [GitHub](https://github.com/sanger-pathogens/Roary) | A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. | |
-| [pandora](https://github.com/iqbal-lab-org/pandora) | [GitHub](https://github.com/iqbal-lab-org/pandora) ([paper](https://link.springer.com/article/10.1186/s13059-021-02473-1)) | Pan-genome graph structure and algorithms for identifying variants ac[...] | |
+| [pandora](https://github.com/iqbal-lab-org/pandora) | [GitHub](https://github.com/iqbal-lab-org/pandora) ([paper](https://link.springer.com/article/10.1186/s13059-021-02473-1)) | Pan-genome graph structure and algorithms for identifying variants across diverse samples | |
 
 # File formats
 
@@ -266,7 +266,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [vg](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | Vg has its own mass of file formats: https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam | |
 | [PanSN-spec](https://github.com/pangenome/PanSN-spec) | [GitHub](https://github.com/pangenome/PanSN-spec) | A naming system for haplotypes in pangenomes. | :rocket: |
 | [GAF - Graph Alignment Format](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) | [GitHub](https://github.com/lh3/gfatools/blob/master/doc/rGFA.md#the-graph-alignment-format-gaf) | Created by minigraph, convertible by vg. Similar to PAF. | |
-| [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) | [GitHub](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) and [here](https://github.com/vgteam/libvgio/blob/master/deps/vg.proto#L38-L54) | Crea[...] | |
+| [GAM - Graph Alignment/Map](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) | [GitHub](https://github.com/vgteam/vg/wiki/File-Formats#gam-graph-alignment--map-vgs-bam) and [here](https://github.com/vgteam/libvgio/blob/master/deps/vg.proto#L38-L54) | Created by vg | |
 | [pgbam](https://github.com/kokyriakidis/pgbam) | [GitHub](https://github.com/kokyriakidis/pgbam) | Bridging BAM alignments and pangenomic graph GAF alignments. | |
 | [gbz-base](https://github.com/jltsiren/gbz-base) | [GitHub](https://github.com/jltsiren/gbz-base) | Pangenome file formats GBZ and GAF based on SQLite for interactive applications. | |
 
@@ -282,10 +282,10 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [pollen](https://github.com/cucapra/pollen) | [GitHub](https://github.com/cucapra/pollen) | A nascent project to develop faster tools for pangenomics in python and Rust. Contains MyGFA, FlatGFA and slow_odgi. | |
 | [mumemto](https://github.com/vikshiv/mumemto) | [GitHub](https://github.com/vikshiv/mumemto) | Use maximal unique matches to analyze and statically visualize a set of fasta sequences. | |
 | [gfa2bin](https://github.com/MoinSebi/gfa2bin) | [GitHub](https://github.com/MoinSebi/gfa2bin) | Convert various pangenome formats to Plink format for GWAS | |
-| [vizitig](https://gitlab.inria.fr/vizisoft/vizitig) | [GitLab](https://gitlab.inria.fr/vizisoft/vizitig) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.19.649656v1)) | An all-in-one genomic and transcriptomic de Bruijn graph constructi[...] | |
+| [vizitig](https://gitlab.inria.fr/vizisoft/vizitig) | [GitLab](https://gitlab.inria.fr/vizisoft/vizitig) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.19.649656v1)) | An all-in-one genomic and transcriptomic de Bruijn graph constructor | |
 | [gafpack](https://github.com/pangenome/gafpack) | [GitHub](https://github.com/pangenome/gafpack) | Calculate node coverage from GAF alignments to GFA variation graphs. | |
 | [TeraTools](https://github.com/ucfcbb/TeraTools) | [GitHub](https://github.com/ucfcbb/TeraTools) | Efficient terabase scale pangenome analysis tools for large datasets | |
-| [Kente](https://github.com/treangenlab/Kente) | [GitHub](https://github.com/treangenlab/Kente) [preprint](https://www.biorxiv.org/content/10.64898/2026.06.22.733643v1) | A Graph-based Pangenomic Approach for Horizontal Gene Transfer Detection i[...] | |
+| [Kente](https://github.com/treangenlab/Kente) | [GitHub](https://github.com/treangenlab/Kente) ([preprint](https://www.biorxiv.org/content/10.64898/2026.06.22.733643v1)) | A Graph-based Pangenomic Approach for Horizontal Gene Transfer Detection in Microbial Genomes | |
 
 # Libraries to explore pangenomes
 
@@ -294,7 +294,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [gfapy](https://github.com/ggonnella/gfapy) | [GitHub](https://github.com/ggonnella/gfapy) | Implements GFA1 and GFA2 parsing and scalable exploration of graphs in Python. | |
 | [gfagraphs](https://github.com/Tharos-ux/gfagraphs) | [GitHub](https://github.com/Tharos-ux/gfagraphs) | Implements rGFA and GFA1 parsing and editing of graphs in Python. | |
 | [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) | [GitHub](https://github.com/sablokgaurav/graphanalyzer) | A python package to read and analyze the PAF and the GFA files for the graphs. | |
-| [theseus](https://github.com/albertjimenezbl/theseus-lib) | [GitHub](https://github.com/albertjimenezbl/theseus-lib) ([preprint](https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1)) | A fast and optimal sequence to graph alignment library and n[...] | |
+| [theseus](https://github.com/albertjimenezbl/theseus-lib) | [GitHub](https://github.com/albertjimenezbl/theseus-lib) ([preprint](https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1)) | A fast and optimal sequence to graph alignment library and non-greedy implementation | |
 
 # Tutorials and reviews
 
