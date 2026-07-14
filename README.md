@@ -306,6 +306,12 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Practical Pangenome Graphs](https://pangenome.github.io/)
 * [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/) - specifically tools tagged with [Graph](https://cmdcolin.github.io/awesome-genome-visualization/?latest[...]
 
+# Data
+
+| Library | Repository | Description | Status |
+|---------|-----------|-------------|--------|
+|Human pangenomics|https://github.com/human-pangenomics|Human pangenomics collection on github||
+
 # Contributions
 
 Is something missing? Contributions are welcome, please make PRs to main or write an issue with a link. 
