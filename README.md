@@ -175,6 +175,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
 | [methylGrapher](https://github.com/twlab/methylGrapher?tab=readme-ov-file) | [GitHub](https://github.com/twlab/methylGrapher?tab=readme-ov-file) | Align bisulfite reads to a pangenome GFA graph and call methylation | |
+| [methqc](https://github.com/JMencius/MethQC) | [GitHub](https://github.com/JMencius/MethQC) | Quality control of DNA methylation detection in long-read sequencing data | |
 
 # Repeat analysis
 
