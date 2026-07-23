@@ -281,6 +281,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [ropebwt3](https://github.com/lh3/ropebwt3) | [GitHub](https://github.com/lh3/ropebwt3) | Can construct and align sequences against huge TB scale references and retrieve haplotypes. | |
 | [pollen](https://github.com/cucapra/pollen) | [GitHub](https://github.com/cucapra/pollen) | A nascent project to develop faster tools for pangenomics in python and Rust. Contains MyGFA, FlatGFA and slow_odgi. | |
 | [mumemto](https://github.com/vikshiv/mumemto) | [GitHub](https://github.com/vikshiv/mumemto) | Use maximal unique matches to analyze and statically visualize a set of fasta sequences. | |
+| [shredtools](https://github.com/vikshiv/shredtools) | [GitHub](https://github.com/vikshiv/shredtools) | Rapidly access gene level or syntenic MUMs in a Mumemto pangenome | |
 | [gfa2bin](https://github.com/MoinSebi/gfa2bin) | [GitHub](https://github.com/MoinSebi/gfa2bin) | Convert various pangenome formats to Plink format for GWAS | |
 | [vizitig](https://gitlab.inria.fr/vizisoft/vizitig) | [GitLab](https://gitlab.inria.fr/vizisoft/vizitig) ([preprint](https://www.biorxiv.org/content/10.1101/2025.04.19.649656v1)) | An all-in-one genomic and transcriptomic de Bruijn graph constructor | |
 | [gafpack](https://github.com/pangenome/gafpack) | [GitHub](https://github.com/pangenome/gafpack) | Calculate node coverage from GAF alignments to GFA variation graphs. | |
