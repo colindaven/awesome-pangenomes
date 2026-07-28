@@ -251,6 +251,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
+| [Panaroo](https://github.com/gtonkinhill/panaroo) | [Github](https://github.com/gtonkinhill/panaroo) | Popular prokaryotic analysis pipeline for up to 10k bacterial genomes  | :rocket: |
 | [Panalyze](https://github.com/downingtim/Panalyze) | [GitHub](https://github.com/downingtim/Panalyze) ([paper](https://doi.org/10.1093/bioadv/vbag071)) | Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualisation, Manipulation | |
 | [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) | [Web](https://merenlab.org/2016/11/08/pangenomics-v2/) | Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (can be used for eukaryotes too except for annotation) | |
 | [Roary](https://github.com/sanger-pathogens/Roary) | [GitHub](https://github.com/sanger-pathogens/Roary) | A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. | |
