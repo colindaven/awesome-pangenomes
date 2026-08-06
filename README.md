@@ -101,7 +101,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
 | [nf-core pangenome](https://github.com/nf-core/pangenome) | [GitHub](https://github.com/nf-core/pangenome) ([paper](https://doi.org/10.1093/bioinformatics/btae609)) | A scalable Nextflow approach to building pangenomes with PGGB with visualization | |
-| [pangepop](https://forgemia.inra.fr/pangepop/pangepop) | [Forgemia](https://forgemia.inra.fr/pangepop/pangepop) | A snakemake pipeline to create a pangenome with minigraph-cactus and align reads against it with vg giraffe | |
 
 # Annotating pangenomes
 
