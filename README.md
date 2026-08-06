@@ -308,6 +308,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 * [Practical Pangenome Graphs](https://pangenome.github.io/)
 * [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/) - specifically tools tagged with [Graph](https://cmdcolin.github.io/awesome-genome-visualization/?latest[...]
+* [awesome_pangenomes_inrae](https://forge.inrae.fr/get-a-pan/awesome_pangenome_in_inrae)
 
 # Data
 
