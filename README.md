@@ -288,6 +288,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [gafpack](https://github.com/pangenome/gafpack) | [GitHub](https://github.com/pangenome/gafpack) | Calculate node coverage from GAF alignments to GFA variation graphs. | |
 | [TeraTools](https://github.com/ucfcbb/TeraTools) | [GitHub](https://github.com/ucfcbb/TeraTools) | Efficient terabase scale pangenome analysis tools for large datasets | |
 | [Kente](https://github.com/treangenlab/Kente) | [GitHub](https://github.com/treangenlab/Kente) ([preprint](https://www.biorxiv.org/content/10.64898/2026.06.22.733643v1)) | A Graph-based Pangenomic Approach for Horizontal Gene Transfer Detection in Microbial Genomes | |
+| [MSpangenome](https://github.com/inrae/MSpangepop) | [GitLab](https://forge.inrae.fr/pangepop/MSpangepop) ([preprint](https://doi.org/10.64898/2026.06.29.735168) | Simulating population pangenomes under coalescent demographic models | |
 
 # Libraries to explore pangenomes
 
