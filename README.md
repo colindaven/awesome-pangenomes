@@ -251,10 +251,11 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-| [Panaroo](https://github.com/gtonkinhill/panaroo) | [Github](https://github.com/gtonkinhill/panaroo) | Popular prokaryotic analysis pipeline for up to 10k bacterial genomes  | :rocket: |
+| [Panaroo](https://github.com/gtonkinhill/panaroo) | [Github](https://github.com/gtonkinhill/panaroo) ([paper](10.1186/s13059-020-02090-4)) | Popular prokaryotic analysis pipeline for up to 10k bacterial genomes  | :rocket: |
+| [PPanGGOLiN](https://github.com/labgem/PPanGGOLiN) | [GitHub](https://github.com/labgem/PPanGGOLiN) ([paper](https://doi.org/10.1371/journal.pcbi.1007732)) | Partitioned pangenome graph, scale to >10k genomes - detection of regions of genomic plasticity - precomputed pangenomes available in [PanGBank](https://pangbank.genoscope.cns.fr/). | :rocket: |
 | [Panalyze](https://github.com/downingtim/Panalyze) | [GitHub](https://github.com/downingtim/Panalyze) ([paper](https://doi.org/10.1093/bioadv/vbag071)) | Viral pangenome variation graphs - Construction, Refinement, Annotation, Visualisation, Manipulation | |
-| [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) | [Web](https://merenlab.org/2016/11/08/pangenomics-v2/) | Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (can be used for eukaryotes too except for annotation) | |
-| [Roary](https://github.com/sanger-pathogens/Roary) | [GitHub](https://github.com/sanger-pathogens/Roary) | A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. | |
+| [anvi'o](https://merenlab.org/2016/11/08/pangenomics-v2/) | [Web](https://merenlab.org/2016/11/08/pangenomics-v2/) ([paper](https://doi.org/10.1093/bioinformatics/btv421)) | Microbial pangenomics - Annotation, Construction, Visualization and Manipulation (can be used for eukaryotes too except for annotation) | :rocket: |
+| [Roary](https://github.com/sanger-pathogens/Roary) | [GitHub](https://github.com/sanger-pathogens/Roary) ([paper](https://doi.org/10.7717/peerj.1319)) | A well-documented and feature-rich tool which works on Prokka gff files and has an entertaining FAQ. | |
 | [pandora](https://github.com/iqbal-lab-org/pandora) | [GitHub](https://github.com/iqbal-lab-org/pandora) ([paper](https://link.springer.com/article/10.1186/s13059-021-02473-1)) | Pan-genome graph structure and algorithms for identifying variants across diverse samples | |
 
 # File formats
