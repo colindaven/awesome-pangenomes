@@ -160,6 +160,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [DipGenie](https://github.com/gsc74/DipGenie) | [GitHub](https://github.com/gsc74/DipGenie) ([Preprint](https://doi.org/10.1101/2025.11.26.690754)) | Pangenome graph-based phased diploid genome inference. Like Pangenie, works on GFA input but optimized for phased diploids | |
 | [Cosigt](https://github.com/davidebolo1993/cosigt) | [GitHub](https://github.com/davidebolo1993/cosigt) ([paper, see Figure 4 and Methods](https://www.nature.com/articles/s41586-024-07911-1#Sec5)) | Pangenome-based structural genotyping through haplotype inference | |
 | [giggles](https://github.com/samarendra-pani/giggles) | [GitHub](https://github.com/samarendra-pani/giggles) | Genotype Inference using Genome Graphs and long reads | |
+| [pantree](https://github.com/oclb/pantree)|[GitHub](https://github.com/oclb/pantree)| Pantree converts a pangenome graph .gfa file into a .vcf file containing variants identified in the graph | |
 
 # Transcriptome analysis
 
