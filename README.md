@@ -303,7 +303,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 # Tutorials and reviews
 
 * [INRA_pangenomes:tutorial](https://pangenome-hackathon-genotoul-bioinfo-11d6d4f47ac33734abfa2a1377.pages.mia.inra.fr/pages/tutorial_pangenome_graph/) 2024 - Nice pangenome glossary and tutorial
-* [Bao_2025](https://www.cambridge.org/core/journals/quantitative-plant-biology/article/complexity-welcome-pangenome-graphs-for-comprehensive-population-genomics/B2DD25F2FD0B4CB91D238DFD2257E7FA)[...]
+* [Bao_2025](https://www.cambridge.org/core/journals/quantitative-plant-biology/article/complexity-welcome-pangenome-graphs-for-comprehensive-population-genomics/B2DD25F2FD0B4CB91D238DFD2257E7FA)[ A 2025 review on pangenomics]
+* [Bocs_2026](https://peercommunityjournal.org/articles/10.24072/pcjournal.781/) A review of what is currently possible in pangenomics, and what tools and formats are really missing.
 
 # Other lists of pangenome tools
 
@@ -323,4 +324,4 @@ Is something missing? Contributions are welcome, please make PRs to main or writ
 
 # Citations 
 
-This is not "published" in an academic journal, but you can cite it via the DOI at the top if you like.
+This is not "published" in an academic journal, but you can cite it via the Zenodo DOI at the top if you like.
