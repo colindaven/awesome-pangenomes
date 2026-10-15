@@ -193,6 +193,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
+| [SloppyyGFA](https://mdondrup.github.io/SloppyyGFA/) | [GitHub](https://mdondrup.github.io/SloppyyGFA/) | A sloppy :-) vibe coded visualization of GFA files in just your browser | :rocket: |
 | [Bandage](https://github.com/rrwick/Bandage) | [GitHub](https://github.com/rrwick/Bandage) | Visualize GFA files in an interactive standalone app | :rocket: |
 | [BandageNG](https://github.com/asl/BandageNG) | [GitHub](https://github.com/asl/BandageNG) | Fork of Bandage that allows you to select and color paths and walks in the graph | |
 | [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) | [GitHub](https://github.com/vgteam/sequenceTubeMap) | Elegant path visualization for smaller regions of a pangenome from the vg team | :rocket: |
