@@ -33,16 +33,16 @@ A new section for microbial genomes has also been added, these tools may not sca
 # Important blog posts
 
 * (2014-2019) **Heng Li's Blog: The Birth of GFA and Pangenome Models** 
-  This series of posts serves as a modern history of the core problems and solutions in pangenomics. It documents the initial proposal of the Graphical Fragment Assembly (GFA) format and outlines [...]
+  This series of posts serves as a modern history of the core problems and solutions in pangenomics. 
   * [A proposal of the Graphical Fragment Assembly format](https://lh3.github.io/2014/07/19/a-proposal-of-the-grapical-fragment-assembly-format)
   * [First update on GFA](https://lh3.github.io/2014/07/23/first-update-on-gfa)
   * [On the graphical representation of sequences](https://lh3.github.io/2014/07/25/on-the-graphical-representation-of-sequences)
   * [On a reference pan-genome model (Part I)](https://lh3.github.io/2019/07/08/on-a-reference-pan-genome-model)
   * [On a reference pan-genome model (Part II)](https://lh3.github.io/2019/07/12/on-a-reference-pan-genome-model-part-ii)
 
-* (2019) [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA forma[...]
+* (2019) [Untangling-graphical-pangenomics](https://ekg.github.io/2019/07/09/Untangling-graphical-pangenomics) Excellent blog by Erik Garrison explaining the differences between rGFA and GFA formats, and why reference bias is a problem.
 
-* (2024) [On the definition of pangenome](https://lh3.github.io/2024/03/29/what-is-a-pangenome) In this post, Heng Li traces the definition of "pangenome" from its 2005 bacterial origins (focused [...]
+* (2024) [On the definition of pangenome](https://lh3.github.io/2024/03/29/what-is-a-pangenome) In this post, Heng Li traces the definition of "pangenome" from its 2005 bacterial origins on.
 
 # Toolkits
 
@@ -63,7 +63,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
 | [Minigraph](https://github.com/lh3/minigraph) | [GitHub](https://github.com/lh3/minigraph) ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02168-z)) | Fast method by Heng Li, produces referenceGFA (rGFA) format | |
-| [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) | [GitHub](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) ([paper](https://www.nature.com/articles/s41592-023-01896-0)) | Cactus-based pangenome construction | |
+| [minigraph_cactus](https://github.com/ComparativeGenomicsToolkit/cactus) | [GitHub](https://github.com/ComparativeGenomicsToolkit/cactus) and [docs](https://github.com/ComparativeGenomicsToolkit/cactus/blob/master/doc/pangenome.md) ([paper](https://www.nature.com/articles/s41592-023-01896-0)) | Cactus-based pangenome construction | :rocket: |
 | [PGGB](https://github.com/pangenome/pggb) | [GitHub](https://github.com/pangenome/pggb) ([paper](https://www.nature.com/articles/s41592-024-02430-3)) | Pangenome Graph Builder, calculates SNPs as part of the pipeline. Produces GFA and odgi. | :rocket: |
 | [pangene](https://github.com/lh3/pangene) | [GitHub](https://github.com/lh3/pangene) ([paper](https://academic.oup.com/bioinformatics/article/40/7/btae456/7718494?login=true)) | Pangene constructs a pangenome gene graph from one protein sequence | |
 | [Pantools v3+](https://git.wur.nl/bioinformatics/pantools) | [Git](https://git.wur.nl/bioinformatics/pantools) ([paper](https://academic.oup.com/bioinformatics/article-abstract/38/18/4403/6647839)) | Fully featured construction of pangenome graphs | |
@@ -193,14 +193,15 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
+| [JBrowse 2](https://jbrowse.org) | [GitHub](https://github.com/cmdcolin/jbrowse-components) / [Web](https://jbrowse.org) | Web based genome browser with synteny views and plugins for multiple-alignments and graph displays that can be extracted from minigraph-cactus HAL files. Great tutorials | :rocket: |
 | [SloppyyGFA](https://mdondrup.github.io/SloppyyGFA/) | [GitHub](https://mdondrup.github.io/SloppyyGFA/) | A sloppy :-) vibe coded visualization of GFA files in just your browser | :rocket: |
-| [Bandage](https://github.com/rrwick/Bandage) | [GitHub](https://github.com/rrwick/Bandage) | Visualize GFA files in an interactive standalone app | :rocket: |
-| [BandageNG](https://github.com/asl/BandageNG) | [GitHub](https://github.com/asl/BandageNG) | Fork of Bandage that allows you to select and color paths and walks in the graph | |
+| [BandageNG](https://github.com/asl/BandageNG) | [GitHub](https://github.com/asl/BandageNG) | Fork of Bandage that allows you to select and color paths and walks in the graph | :rocket: |
 | [SeqTubemap](https://github.com/vgteam/sequenceTubeMap) | [GitHub](https://github.com/vgteam/sequenceTubeMap) | Elegant path visualization for smaller regions of a pangenome from the vg team | :rocket: |
 | [MoMI-G](https://github.com/MoMI-G/MoMI-G/) | [GitHub](https://github.com/MoMI-G/MoMI-G/) | Genome graph browser for SVs visualization. User can filter and visualize annotations and inspect SVs with read alignments over the genome graph. | :rocket: |
 | [pangene](https://github.com/lh3/pangene) | [GitHub](https://github.com/lh3/pangene) | Pangene can visualize one protein set mapped to x genomes to check synteny and presence/absence of genes. | :rocket: |
 | [Panagram](https://github.com/kjenike/panagram) | [GitHub](https://github.com/kjenike/panagram) | Alignment-free pangenome browser and analysis toolkit, can analyze and plot k-mer conservation (do not confuse with pannagram above) | |
 | [VAG](https://github.com/lipingfangs/VAG) | [GitHub](https://github.com/lipingfangs/VAG) | Visualization of short sequence alignments in a pangenome | |
+| [Bandage](https://github.com/rrwick/Bandage) | [GitHub](https://github.com/rrwick/Bandage) | Visualize GFA files in an interactive standalone app. Not maintained, see BandageNG | :rocket: |
 | [Panache](https://github.com/SouthGreenPlatform/panache) | [GitHub](https://github.com/SouthGreenPlatform/panache) | View linearized pangenomes | |
 | [Waragraph](https://github.com/chfi/waragraph) | [GitHub](https://github.com/chfi/waragraph) | Pangenome graph visualization | |
 | [PanGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer) | [GitHub](https://github.com/TF-Chan-Lab/panGraphViewer) | Desktop and web versions. Based on cytoscape.js. Can get to chromosome coordinates, allows VCF input. | |
@@ -213,7 +214,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [gfaviz](https://github.com/ggonnella/gfaviz) | [GitHub](https://github.com/ggonnella/gfaviz) | Graphical interactive tool for the visualization of sequence graphs in GFA format | |
 | [AGB](https://github.com/almiheenko/AGB) | [GitHub](https://github.com/almiheenko/AGB) | Interactive assembly graph browser | |
 | [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/) | [Web](https://cmdcolin.github.io/graphgenomeviewer/) | Web based viewer for small to medium GFA files | |
-| [JBrowse 2](https://jbrowse.org) | [GitHub](https://github.com/cmdcolin/jbrowse-components) / [Web](https://jbrowse.org) | Web based genome browser with synteny views and plugins for multiple-alignments that can be extracted from Cactus graphs. | |
 | [strangepg](https://github.com/qwx9/strangepg) | [GitHub](https://github.com/qwx9/strangepg) | A modern GFA viewer and alternative to the Bandage tool | |
 | [savanache](https://forge.ird.fr/diade/savanache/savanache/) | [Forge](https://forge.ird.fr/diade/savanache/savanache/) ([preprint](https://www.biorxiv.org/content/10.64898/2026.05.05.722901v1)) | A browser based viewer appropriate for GFA files from minigraph-cactus | |
 
@@ -221,9 +221,10 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-| [vg view](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | generates static images from a vg compatible file | |
+
 | [odgi](https://github.com/pangenome/odgi) | [GitHub](https://github.com/pangenome/odgi) | can generate genome wide static images from an odgi or gfa file | :rocket: |
 | [plotsr](https://github.com/schneebergerlab/plotsr) | [GitHub](https://github.com/schneebergerlab/plotsr) | Plotsr generates high-quality visualisation of synteny and structural rearrangements between multiple linear genomes | |
+| [vg viz](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | generates static images from a vg compatible file. Deprecated in 2026 | |
 | [gfalook](https://github.com/pangenome/gfalook) | [GitHub](https://github.com/pangenome/gfalook) | A 2026 reimplementation of odgi viz in rust with more features. | |
 
 # Graph analysis and quality assessment
