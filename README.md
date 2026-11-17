@@ -18,8 +18,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 - [SNP and Structural Variant callers and genotypers](#snp-and-structural-variant-callers-and-genotypers)
 - [Transcriptome analysis](#transcriptome-analysis)
 - [Methylation analysis](#methylation-analysis)
-- [Pangenome viewers -interactive](#Pangenome-viewers--interactive)
-- [Pangenome viewers -static](#Pangenome-viewers--static)
+- [Pangenome viewers - interactive](#pangenome-viewers---interactive)
+- [Pangenome viewers - static](#pangenome-viewers---static)
 - [Graph analysis and quality assessment](#graph-analysis-and-quality-assessment)
 - [Graph validation tools](#graph-validation-tools)
 - [Pangenome comparison](#pangenome-comparison)
@@ -133,7 +133,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [Minichain](https://github.com/at-cg/minichain) | [GitHub](https://github.com/at-cg/minichain) | Align long reads to pangenomes in GFA or rGFA format | |
 | [PanAligner](https://github.com/at-cg/PanAligner) | [GitHub](https://github.com/at-cg/PanAligner) | Align long reads to pangenomes | |
 | [poasta](https://github.com/broadinstitute/poasta) | [GitHub](https://github.com/broadinstitute/poasta) | Fast, gap-affine sequence-to-graph and partial order aligner and MSA construction | |
-| [PALSS](https://github.com/ldenti/palss) | [GitHub](https://github.com/ldenti/palss) ([preprint](https://www.biorxiv.org/content/10.1101/2025.02.07.637057v1)) | Pangenome Graph Augmentation from Long-reads Specific Strings | |
+| [PALSS](https://github.com/ldenti/palss) | [GitHub](https://github.com/ldenti/palss) ([paper](https://doi.org/10.1101/gr.280567.125)) | Pangenome Graph Augmentation from Long-reads Specific Strings | |
 
 # SNP and Structural Variant callers and genotypers
 
@@ -155,7 +155,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [Swave](https://github.com/songbowang125/Swave) | [GitHub](https://github.com/songbowang125/Swave) ([preprint](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1.abstract)) | Detect SVs from a (minigraph) pangenome graph (free for non-commercial use) | |
 | [APAV](https://github.com/SJTU-CGM/APAV) | [GitHub](https://github.com/SJTU-CGM/APAV) ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013288)) | A pangenome PAV detection and visualization toolkit in Perl and Python | |
 | [PangenomeX](https://github.com/Nevermore233/PangenomeX) | [GitHub](https://github.com/Nevermore233/PangenomeX) ([paper](https://academic.oup.com/bib/article/26/5/bbaf550/8293245?login=true)) | Pangenome shallow CNV caller in python. Requires building indices | |
-| [SVPG](https://github.com/coopsor/SVPG) | [GitHub](https://github.com/coopsor/SVPG) ([preprint](https://doi.org/10.1101/2025.07.11.664486)) | Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data | |
+| [SVPG](https://github.com/coopsor/SVPG) | [GitHub](https://github.com/coopsor/SVPG) ([paper](https://doi.org/10.1038/s41592-026-03219-2)) | Structural Variant detection and rapid augmentation of Pangenome Graphs using long-read data | |
 | [Floco](https://github.com/hugocarmaga/floco) | [GitHub](https://github.com/hugocarmaga/floco) ([preprint](https://www.biorxiv.org/content/10.1101/2025.11.21.689771v1.abstract?%3Fcollection=)) | Call individual node copy number on pangenome graphs | |
 | [DipGenie](https://github.com/gsc74/DipGenie) | [GitHub](https://github.com/gsc74/DipGenie) ([Preprint](https://doi.org/10.1101/2025.11.26.690754)) | Pangenome graph-based phased diploid genome inference. Like Pangenie, works on GFA input but optimized for phased diploids | |
 | [Cosigt](https://github.com/davidebolo1993/cosigt) | [GitHub](https://github.com/davidebolo1993/cosigt) ([paper, see Figure 4 and Methods](https://www.nature.com/articles/s41586-024-07911-1#Sec5)) | Pangenome-based structural genotyping through haplotype inference | |
@@ -189,7 +189,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 |------|-----------|-------------|--------|
 | [Pantax](https://github.com/LuoGroup2023/PanTax) | [GitHub](https://github.com/LuoGroup2023/PanTax) | Pantax attempts to provide strain level metagenomic attribution for short or long reads (but requires the licensed Gurobi optimizer) | |
 
-# Pangenome viewers -interactive
+# Pangenome viewers - interactive
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
@@ -217,11 +217,10 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [strangepg](https://github.com/qwx9/strangepg) | [GitHub](https://github.com/qwx9/strangepg) | A modern GFA viewer and alternative to the Bandage tool | |
 | [savanache](https://forge.ird.fr/diade/savanache/savanache/) | [Forge](https://forge.ird.fr/diade/savanache/savanache/) ([preprint](https://www.biorxiv.org/content/10.64898/2026.05.05.722901v1)) | A browser based viewer appropriate for GFA files from minigraph-cactus | |
 
-# Pangenome viewers -static
+# Pangenome viewers - static
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-
 | [odgi](https://github.com/pangenome/odgi) | [GitHub](https://github.com/pangenome/odgi) | can generate genome wide static images from an odgi or gfa file | :rocket: |
 | [plotsr](https://github.com/schneebergerlab/plotsr) | [GitHub](https://github.com/schneebergerlab/plotsr) | Plotsr generates high-quality visualisation of synteny and structural rearrangements between multiple linear genomes | |
 | [vg viz](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | generates static images from a vg compatible file. Deprecated in 2026 | |
