@@ -221,7 +221,6 @@ A new section for microbial genomes has also been added, these tools may not sca
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
-
 | [odgi](https://github.com/pangenome/odgi) | [GitHub](https://github.com/pangenome/odgi) | can generate genome wide static images from an odgi or gfa file | :rocket: |
 | [plotsr](https://github.com/schneebergerlab/plotsr) | [GitHub](https://github.com/schneebergerlab/plotsr) | Plotsr generates high-quality visualisation of synteny and structural rearrangements between multiple linear genomes | |
 | [vg viz](https://github.com/vgteam/vg) | [GitHub](https://github.com/vgteam/vg) | generates static images from a vg compatible file. Deprecated in 2026 | |
